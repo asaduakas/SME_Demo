@@ -1,0 +1,21 @@
+product_id,product_name,category,supplier,avg_daily_sales,recent_avg_daily,demand_forecast,stock_level,reorder_point,lead_time_days,price_usd,total_qty_90d,lost_sales_est
+P001,Espresso Beans 250g,Beverage,Gourmet Beans,10.0,9.928571428571429,9.93,57,19,2,7.58,999,94.83
+P002,Espresso Beans 1kg,Beverage,BeverageHub,18.0,16.571428571428573,16.57,89,28,1,2.81,1790,75.84
+P003,Ground Coffee 500g,Beverage,BeverageHub,40.0,39.714285714285715,39.71,85,72,7,7.25,3896,1399.03
+P004,Latte Milk 1L,Dairy,QuickSupplies,4.0,3.9285714285714284,3.93,17,8,1,7.78,346,81.77
+P005,Oat Milk 1L,Dairy,Local Bakery Co,9.0,6.857142857142857,6.86,37,17,2,9.61,801,105.9
+P006,Croissant,Bakery,FreshDairy,7.0,6.142857142857143,6.14,17,12,3,6.35,654,164.97
+P007,Pain au Chocolat,Bakery,Gourmet Beans,34.0,35.642857142857146,35.64,159,101,4,1.52,3383,137.53
+P008,Bagel,Bakery,FreshDairy,25.0,25.285714285714285,25.29,122,64,1,6.88,2401,378.61
+P009,Sourdough Loaf,Bakery,FreshDairy,6.0,5.428571428571429,5.43,38,17,4,3.36,579,0.03
+P010,Muffin,Bakery,FreshDairy,13.0,11.571428571428571,11.57,50,24,3,7.26,1224,224.99
+P011,Bottled Water 500ml,Beverage,Gourmet Beans,54.0,51.57142857142857,51.57,279,124,2,2.3,5356,188.58
+P012,Orange Juice 1L,Beverage,QuickSupplies,27.0,28.714285714285715,28.71,188,66,5,2.82,2650,36.58
+P013,Sandwich Ham-Cheese,Food,FreshDairy,2.0,1.9285714285714286,1.93,6,3,3,4.49,158,33.72
+P014,Sandwich Veggie,Food,Gourmet Beans,8.0,7.571428571428571,7.57,53,19,7,3.7,692,0.0
+P015,Chocolate Bar,Food,QuickSupplies,15.0,15.071428571428571,15.07,96,37,2,3.24,1291,30.75
+P016,Cookie Pack,Food,Local Bakery Co,27.0,26.285714285714285,26.29,127,71,4,9.06,2404,516.69
+P017,Cold Brew 330ml,Beverage,QuickSupplies,36.0,34.42857142857143,34.43,111,108,5,5.34,3441,694.25
+P018,Iced Latte 330ml,Beverage,Gourmet Beans,17.0,17.857142857142858,17.86,47,30,7,4.68,1647,365.13
+P019,Cup 8oz,Supply,Gourmet Beans,9.0,9.0,9.0,35,27,5,0.45,838,12.6
+P020,Paper Cup 12oz,Supply,BeverageHub,12.0,10.214285714285714,10.21,81,30,1,1.05,1088,0.0

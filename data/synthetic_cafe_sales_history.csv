@@ -1,0 +1,1801 @@
+date,product_id,product_name,category,supplier,qty_sold,price_usd
+2025-08-25,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-08-25,P002,Espresso Beans 1kg,Beverage,BeverageHub,16,2.81
+2025-08-25,P003,Ground Coffee 500g,Beverage,BeverageHub,41,7.25
+2025-08-25,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-08-25,P005,Oat Milk 1L,Dairy,Local Bakery Co,6,9.61
+2025-08-25,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-08-25,P007,Pain au Chocolat,Bakery,Gourmet Beans,31,1.52
+2025-08-25,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-08-25,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-08-25,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-08-25,P011,Bottled Water 500ml,Beverage,Gourmet Beans,66,2.3
+2025-08-25,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-08-25,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-08-25,P014,Sandwich Veggie,Food,Gourmet Beans,12,3.7
+2025-08-25,P015,Chocolate Bar,Food,QuickSupplies,9,3.24
+2025-08-25,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-08-25,P017,Cold Brew 330ml,Beverage,QuickSupplies,44,5.34
+2025-08-25,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-08-25,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-08-25,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-08-26,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-08-26,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-08-26,P003,Ground Coffee 500g,Beverage,BeverageHub,27,7.25
+2025-08-26,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-08-26,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-08-26,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-08-26,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-08-26,P008,Bagel,Bakery,FreshDairy,28,6.88
+2025-08-26,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-08-26,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-08-26,P011,Bottled Water 500ml,Beverage,Gourmet Beans,63,2.3
+2025-08-26,P012,Orange Juice 1L,Beverage,QuickSupplies,28,2.82
+2025-08-26,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-08-26,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-08-26,P015,Chocolate Bar,Food,QuickSupplies,21,3.24
+2025-08-26,P016,Cookie Pack,Food,Local Bakery Co,30,9.06
+2025-08-26,P017,Cold Brew 330ml,Beverage,QuickSupplies,30,5.34
+2025-08-26,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-08-26,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-08-26,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-08-27,P001,Espresso Beans 250g,Beverage,Gourmet Beans,20,7.58
+2025-08-27,P002,Espresso Beans 1kg,Beverage,BeverageHub,25,2.81
+2025-08-27,P003,Ground Coffee 500g,Beverage,BeverageHub,48,7.25
+2025-08-27,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-08-27,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-08-27,P006,Croissant,Bakery,FreshDairy,12,6.35
+2025-08-27,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-08-27,P008,Bagel,Bakery,FreshDairy,20,6.88
+2025-08-27,P009,Sourdough Loaf,Bakery,FreshDairy,14,3.36
+2025-08-27,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-08-27,P011,Bottled Water 500ml,Beverage,Gourmet Beans,44,2.3
+2025-08-27,P012,Orange Juice 1L,Beverage,QuickSupplies,29,2.82
+2025-08-27,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-08-27,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-08-27,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-08-27,P016,Cookie Pack,Food,Local Bakery Co,29,9.06
+2025-08-27,P017,Cold Brew 330ml,Beverage,QuickSupplies,38,5.34
+2025-08-27,P018,Iced Latte 330ml,Beverage,Gourmet Beans,22,4.68
+2025-08-27,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-08-27,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-08-28,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-08-28,P002,Espresso Beans 1kg,Beverage,BeverageHub,21,2.81
+2025-08-28,P003,Ground Coffee 500g,Beverage,BeverageHub,43,7.25
+2025-08-28,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-08-28,P005,Oat Milk 1L,Dairy,Local Bakery Co,5,9.61
+2025-08-28,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-08-28,P007,Pain au Chocolat,Bakery,Gourmet Beans,38,1.52
+2025-08-28,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-08-28,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-08-28,P010,Muffin,Bakery,FreshDairy,15,7.26
+2025-08-28,P011,Bottled Water 500ml,Beverage,Gourmet Beans,60,2.3
+2025-08-28,P012,Orange Juice 1L,Beverage,QuickSupplies,29,2.82
+2025-08-28,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-08-28,P014,Sandwich Veggie,Food,Gourmet Beans,2,3.7
+2025-08-28,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-08-28,P016,Cookie Pack,Food,Local Bakery Co,19,9.06
+2025-08-28,P017,Cold Brew 330ml,Beverage,QuickSupplies,45,5.34
+2025-08-28,P018,Iced Latte 330ml,Beverage,Gourmet Beans,22,4.68
+2025-08-28,P019,Cup 8oz,Supply,Gourmet Beans,14,0.45
+2025-08-28,P020,Paper Cup 12oz,Supply,BeverageHub,19,1.05
+2025-08-29,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-08-29,P002,Espresso Beans 1kg,Beverage,BeverageHub,23,2.81
+2025-08-29,P003,Ground Coffee 500g,Beverage,BeverageHub,53,7.25
+2025-08-29,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-08-29,P005,Oat Milk 1L,Dairy,Local Bakery Co,14,9.61
+2025-08-29,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-08-29,P007,Pain au Chocolat,Bakery,Gourmet Beans,29,1.52
+2025-08-29,P008,Bagel,Bakery,FreshDairy,29,6.88
+2025-08-29,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-08-29,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-08-29,P011,Bottled Water 500ml,Beverage,Gourmet Beans,55,2.3
+2025-08-29,P012,Orange Juice 1L,Beverage,QuickSupplies,34,2.82
+2025-08-29,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-08-29,P014,Sandwich Veggie,Food,Gourmet Beans,3,3.7
+2025-08-29,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-08-29,P016,Cookie Pack,Food,Local Bakery Co,31,9.06
+2025-08-29,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-08-29,P018,Iced Latte 330ml,Beverage,Gourmet Beans,24,4.68
+2025-08-29,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-08-29,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-08-30,P001,Espresso Beans 250g,Beverage,Gourmet Beans,16,7.58
+2025-08-30,P002,Espresso Beans 1kg,Beverage,BeverageHub,27,2.81
+2025-08-30,P003,Ground Coffee 500g,Beverage,BeverageHub,68,7.25
+2025-08-30,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-08-30,P005,Oat Milk 1L,Dairy,Local Bakery Co,13,9.61
+2025-08-30,P006,Croissant,Bakery,FreshDairy,11,6.35
+2025-08-30,P007,Pain au Chocolat,Bakery,Gourmet Beans,50,1.52
+2025-08-30,P008,Bagel,Bakery,FreshDairy,42,6.88
+2025-08-30,P009,Sourdough Loaf,Bakery,FreshDairy,12,3.36
+2025-08-30,P010,Muffin,Bakery,FreshDairy,20,7.26
+2025-08-30,P011,Bottled Water 500ml,Beverage,Gourmet Beans,81,2.3
+2025-08-30,P012,Orange Juice 1L,Beverage,QuickSupplies,35,2.82
+2025-08-30,P013,Sandwich Ham-Cheese,Food,FreshDairy,5,4.49
+2025-08-30,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-08-30,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-08-30,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-08-30,P017,Cold Brew 330ml,Beverage,QuickSupplies,49,5.34
+2025-08-30,P018,Iced Latte 330ml,Beverage,Gourmet Beans,32,4.68
+2025-08-30,P019,Cup 8oz,Supply,Gourmet Beans,15,0.45
+2025-08-30,P020,Paper Cup 12oz,Supply,BeverageHub,7,1.05
+2025-08-31,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-08-31,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-08-31,P003,Ground Coffee 500g,Beverage,BeverageHub,49,7.25
+2025-08-31,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-08-31,P005,Oat Milk 1L,Dairy,Local Bakery Co,4,9.61
+2025-08-31,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-08-31,P007,Pain au Chocolat,Bakery,Gourmet Beans,51,1.52
+2025-08-31,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-08-31,P009,Sourdough Loaf,Bakery,FreshDairy,10,3.36
+2025-08-31,P010,Muffin,Bakery,FreshDairy,15,7.26
+2025-08-31,P011,Bottled Water 500ml,Beverage,Gourmet Beans,90,2.3
+2025-08-31,P012,Orange Juice 1L,Beverage,QuickSupplies,39,2.82
+2025-08-31,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-08-31,P014,Sandwich Veggie,Food,Gourmet Beans,4,3.7
+2025-08-31,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-08-31,P016,Cookie Pack,Food,Local Bakery Co,37,9.06
+2025-08-31,P017,Cold Brew 330ml,Beverage,QuickSupplies,55,5.34
+2025-08-31,P018,Iced Latte 330ml,Beverage,Gourmet Beans,24,4.68
+2025-08-31,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-08-31,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-09-01,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-09-01,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-09-01,P003,Ground Coffee 500g,Beverage,BeverageHub,37,7.25
+2025-09-01,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-09-01,P005,Oat Milk 1L,Dairy,Local Bakery Co,13,9.61
+2025-09-01,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-09-01,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-09-01,P008,Bagel,Bakery,FreshDairy,16,6.88
+2025-09-01,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-09-01,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-09-01,P011,Bottled Water 500ml,Beverage,Gourmet Beans,61,2.3
+2025-09-01,P012,Orange Juice 1L,Beverage,QuickSupplies,28,2.82
+2025-09-01,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-09-01,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-01,P015,Chocolate Bar,Food,QuickSupplies,12,3.24
+2025-09-01,P016,Cookie Pack,Food,Local Bakery Co,35,9.06
+2025-09-01,P017,Cold Brew 330ml,Beverage,QuickSupplies,40,5.34
+2025-09-01,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-09-01,P019,Cup 8oz,Supply,Gourmet Beans,13,0.45
+2025-09-01,P020,Paper Cup 12oz,Supply,BeverageHub,20,1.05
+2025-09-02,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-09-02,P002,Espresso Beans 1kg,Beverage,BeverageHub,24,2.81
+2025-09-02,P003,Ground Coffee 500g,Beverage,BeverageHub,45,7.25
+2025-09-02,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-02,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-09-02,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-02,P007,Pain au Chocolat,Bakery,Gourmet Beans,34,1.52
+2025-09-02,P008,Bagel,Bakery,FreshDairy,36,6.88
+2025-09-02,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-09-02,P010,Muffin,Bakery,FreshDairy,15,7.26
+2025-09-02,P011,Bottled Water 500ml,Beverage,Gourmet Beans,73,2.3
+2025-09-02,P012,Orange Juice 1L,Beverage,QuickSupplies,23,2.82
+2025-09-02,P013,Sandwich Ham-Cheese,Food,FreshDairy,5,4.49
+2025-09-02,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-02,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-09-02,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-09-02,P017,Cold Brew 330ml,Beverage,QuickSupplies,50,5.34
+2025-09-02,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-09-02,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-09-02,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-09-03,P001,Espresso Beans 250g,Beverage,Gourmet Beans,13,7.58
+2025-09-03,P002,Espresso Beans 1kg,Beverage,BeverageHub,31,2.81
+2025-09-03,P003,Ground Coffee 500g,Beverage,BeverageHub,42,7.25
+2025-09-03,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-09-03,P005,Oat Milk 1L,Dairy,Local Bakery Co,6,9.61
+2025-09-03,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-03,P007,Pain au Chocolat,Bakery,Gourmet Beans,50,1.52
+2025-09-03,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-09-03,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-09-03,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-09-03,P011,Bottled Water 500ml,Beverage,Gourmet Beans,52,2.3
+2025-09-03,P012,Orange Juice 1L,Beverage,QuickSupplies,32,2.82
+2025-09-03,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-03,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-03,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-09-03,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-09-03,P017,Cold Brew 330ml,Beverage,QuickSupplies,33,5.34
+2025-09-03,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-09-03,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-09-03,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-09-04,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-09-04,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-09-04,P003,Ground Coffee 500g,Beverage,BeverageHub,38,7.25
+2025-09-04,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-09-04,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-09-04,P006,Croissant,Bakery,FreshDairy,10,6.35
+2025-09-04,P007,Pain au Chocolat,Bakery,Gourmet Beans,23,1.52
+2025-09-04,P008,Bagel,Bakery,FreshDairy,31,6.88
+2025-09-04,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-09-04,P010,Muffin,Bakery,FreshDairy,15,7.26
+2025-09-04,P011,Bottled Water 500ml,Beverage,Gourmet Beans,62,2.3
+2025-09-04,P012,Orange Juice 1L,Beverage,QuickSupplies,33,2.82
+2025-09-04,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-04,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-09-04,P015,Chocolate Bar,Food,QuickSupplies,9,3.24
+2025-09-04,P016,Cookie Pack,Food,Local Bakery Co,29,9.06
+2025-09-04,P017,Cold Brew 330ml,Beverage,QuickSupplies,38,5.34
+2025-09-04,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-09-04,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-09-04,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-09-05,P001,Espresso Beans 250g,Beverage,Gourmet Beans,15,7.58
+2025-09-05,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-09-05,P003,Ground Coffee 500g,Beverage,BeverageHub,55,7.25
+2025-09-05,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-05,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-09-05,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-09-05,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-09-05,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-09-05,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-09-05,P010,Muffin,Bakery,FreshDairy,19,7.26
+2025-09-05,P011,Bottled Water 500ml,Beverage,Gourmet Beans,73,2.3
+2025-09-05,P012,Orange Juice 1L,Beverage,QuickSupplies,34,2.82
+2025-09-05,P013,Sandwich Ham-Cheese,Food,FreshDairy,5,4.49
+2025-09-05,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-09-05,P015,Chocolate Bar,Food,QuickSupplies,6,3.24
+2025-09-05,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-09-05,P017,Cold Brew 330ml,Beverage,QuickSupplies,44,5.34
+2025-09-05,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-09-05,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-09-05,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-09-06,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-09-06,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-09-06,P003,Ground Coffee 500g,Beverage,BeverageHub,61,7.25
+2025-09-06,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-06,P005,Oat Milk 1L,Dairy,Local Bakery Co,13,9.61
+2025-09-06,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-06,P007,Pain au Chocolat,Bakery,Gourmet Beans,55,1.52
+2025-09-06,P008,Bagel,Bakery,FreshDairy,34,6.88
+2025-09-06,P009,Sourdough Loaf,Bakery,FreshDairy,16,3.36
+2025-09-06,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-09-06,P011,Bottled Water 500ml,Beverage,Gourmet Beans,81,2.3
+2025-09-06,P012,Orange Juice 1L,Beverage,QuickSupplies,37,2.82
+2025-09-06,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-09-06,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-09-06,P015,Chocolate Bar,Food,QuickSupplies,24,3.24
+2025-09-06,P016,Cookie Pack,Food,Local Bakery Co,18,9.06
+2025-09-06,P017,Cold Brew 330ml,Beverage,QuickSupplies,54,5.34
+2025-09-06,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-09-06,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-09-06,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-09-07,P001,Espresso Beans 250g,Beverage,Gourmet Beans,16,7.58
+2025-09-07,P002,Espresso Beans 1kg,Beverage,BeverageHub,23,2.81
+2025-09-07,P003,Ground Coffee 500g,Beverage,BeverageHub,46,7.25
+2025-09-07,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-09-07,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-09-07,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-07,P007,Pain au Chocolat,Bakery,Gourmet Beans,55,1.52
+2025-09-07,P008,Bagel,Bakery,FreshDairy,39,6.88
+2025-09-07,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-09-07,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-09-07,P011,Bottled Water 500ml,Beverage,Gourmet Beans,71,2.3
+2025-09-07,P012,Orange Juice 1L,Beverage,QuickSupplies,36,2.82
+2025-09-07,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-09-07,P014,Sandwich Veggie,Food,Gourmet Beans,3,3.7
+2025-09-07,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-09-07,P016,Cookie Pack,Food,Local Bakery Co,25,9.06
+2025-09-07,P017,Cold Brew 330ml,Beverage,QuickSupplies,57,5.34
+2025-09-07,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-09-07,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-09-07,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-09-08,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-09-08,P002,Espresso Beans 1kg,Beverage,BeverageHub,11,2.81
+2025-09-08,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-09-08,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-09-08,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-09-08,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-08,P007,Pain au Chocolat,Bakery,Gourmet Beans,23,1.52
+2025-09-08,P008,Bagel,Bakery,FreshDairy,20,6.88
+2025-09-08,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-09-08,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-09-08,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-09-08,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-09-08,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-08,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-08,P015,Chocolate Bar,Food,QuickSupplies,20,3.24
+2025-09-08,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-09-08,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-09-08,P018,Iced Latte 330ml,Beverage,Gourmet Beans,24,4.68
+2025-09-08,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-09-08,P020,Paper Cup 12oz,Supply,BeverageHub,23,1.05
+2025-09-09,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-09-09,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-09-09,P003,Ground Coffee 500g,Beverage,BeverageHub,39,7.25
+2025-09-09,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-09,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-09-09,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-09,P007,Pain au Chocolat,Bakery,Gourmet Beans,27,1.52
+2025-09-09,P008,Bagel,Bakery,FreshDairy,29,6.88
+2025-09-09,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-09-09,P010,Muffin,Bakery,FreshDairy,6,7.26
+2025-09-09,P011,Bottled Water 500ml,Beverage,Gourmet Beans,68,2.3
+2025-09-09,P012,Orange Juice 1L,Beverage,QuickSupplies,20,2.82
+2025-09-09,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-09-09,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-09-09,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-09-09,P016,Cookie Pack,Food,Local Bakery Co,30,9.06
+2025-09-09,P017,Cold Brew 330ml,Beverage,QuickSupplies,40,5.34
+2025-09-09,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-09-09,P019,Cup 8oz,Supply,Gourmet Beans,13,0.45
+2025-09-09,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-09-10,P001,Espresso Beans 250g,Beverage,Gourmet Beans,13,7.58
+2025-09-10,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-09-10,P003,Ground Coffee 500g,Beverage,BeverageHub,44,7.25
+2025-09-10,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-09-10,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-09-10,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-10,P007,Pain au Chocolat,Bakery,Gourmet Beans,31,1.52
+2025-09-10,P008,Bagel,Bakery,FreshDairy,26,6.88
+2025-09-10,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-09-10,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-09-10,P011,Bottled Water 500ml,Beverage,Gourmet Beans,66,2.3
+2025-09-10,P012,Orange Juice 1L,Beverage,QuickSupplies,36,2.82
+2025-09-10,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-10,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-10,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-09-10,P016,Cookie Pack,Food,Local Bakery Co,21,9.06
+2025-09-10,P017,Cold Brew 330ml,Beverage,QuickSupplies,29,5.34
+2025-09-10,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-09-10,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-09-10,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-09-11,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-09-11,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-09-11,P003,Ground Coffee 500g,Beverage,BeverageHub,33,7.25
+2025-09-11,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-09-11,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-09-11,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-09-11,P007,Pain au Chocolat,Bakery,Gourmet Beans,23,1.52
+2025-09-11,P008,Bagel,Bakery,FreshDairy,31,6.88
+2025-09-11,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-09-11,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-09-11,P011,Bottled Water 500ml,Beverage,Gourmet Beans,59,2.3
+2025-09-11,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-09-11,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-09-11,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-09-11,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-09-11,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-09-11,P017,Cold Brew 330ml,Beverage,QuickSupplies,34,5.34
+2025-09-11,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-09-11,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-09-11,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-09-12,P001,Espresso Beans 250g,Beverage,Gourmet Beans,7,7.58
+2025-09-12,P002,Espresso Beans 1kg,Beverage,BeverageHub,25,2.81
+2025-09-12,P003,Ground Coffee 500g,Beverage,BeverageHub,34,7.25
+2025-09-12,P004,Latte Milk 1L,Dairy,QuickSupplies,7,7.78
+2025-09-12,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-09-12,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-12,P007,Pain au Chocolat,Bakery,Gourmet Beans,34,1.52
+2025-09-12,P008,Bagel,Bakery,FreshDairy,18,6.88
+2025-09-12,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-09-12,P010,Muffin,Bakery,FreshDairy,21,7.26
+2025-09-12,P011,Bottled Water 500ml,Beverage,Gourmet Beans,47,2.3
+2025-09-12,P012,Orange Juice 1L,Beverage,QuickSupplies,24,2.82
+2025-09-12,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-09-12,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-09-12,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-09-12,P016,Cookie Pack,Food,Local Bakery Co,18,9.06
+2025-09-12,P017,Cold Brew 330ml,Beverage,QuickSupplies,25,5.34
+2025-09-12,P018,Iced Latte 330ml,Beverage,Gourmet Beans,8,4.68
+2025-09-12,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-09-12,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-09-13,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-09-13,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-09-13,P003,Ground Coffee 500g,Beverage,BeverageHub,39,7.25
+2025-09-13,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-09-13,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-09-13,P006,Croissant,Bakery,FreshDairy,12,6.35
+2025-09-13,P007,Pain au Chocolat,Bakery,Gourmet Beans,45,1.52
+2025-09-13,P008,Bagel,Bakery,FreshDairy,26,6.88
+2025-09-13,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-09-13,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-09-13,P011,Bottled Water 500ml,Beverage,Gourmet Beans,71,2.3
+2025-09-13,P012,Orange Juice 1L,Beverage,QuickSupplies,36,2.82
+2025-09-13,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-13,P014,Sandwich Veggie,Food,Gourmet Beans,3,3.7
+2025-09-13,P015,Chocolate Bar,Food,QuickSupplies,12,3.24
+2025-09-13,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-09-13,P017,Cold Brew 330ml,Beverage,QuickSupplies,46,5.34
+2025-09-13,P018,Iced Latte 330ml,Beverage,Gourmet Beans,15,4.68
+2025-09-13,P019,Cup 8oz,Supply,Gourmet Beans,4,0.45
+2025-09-13,P020,Paper Cup 12oz,Supply,BeverageHub,20,1.05
+2025-09-14,P001,Espresso Beans 250g,Beverage,Gourmet Beans,15,7.58
+2025-09-14,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-09-14,P003,Ground Coffee 500g,Beverage,BeverageHub,38,7.25
+2025-09-14,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-14,P005,Oat Milk 1L,Dairy,Local Bakery Co,13,9.61
+2025-09-14,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-14,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-09-14,P008,Bagel,Bakery,FreshDairy,29,6.88
+2025-09-14,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-09-14,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-09-14,P011,Bottled Water 500ml,Beverage,Gourmet Beans,72,2.3
+2025-09-14,P012,Orange Juice 1L,Beverage,QuickSupplies,32,2.82
+2025-09-14,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-09-14,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-09-14,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-09-14,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-09-14,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-09-14,P018,Iced Latte 330ml,Beverage,Gourmet Beans,23,4.68
+2025-09-14,P019,Cup 8oz,Supply,Gourmet Beans,4,0.45
+2025-09-14,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-09-15,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-09-15,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-09-15,P003,Ground Coffee 500g,Beverage,BeverageHub,35,7.25
+2025-09-15,P004,Latte Milk 1L,Dairy,QuickSupplies,0,7.78
+2025-09-15,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-09-15,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-15,P007,Pain au Chocolat,Bakery,Gourmet Beans,19,1.52
+2025-09-15,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-09-15,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-09-15,P010,Muffin,Bakery,FreshDairy,6,7.26
+2025-09-15,P011,Bottled Water 500ml,Beverage,Gourmet Beans,51,2.3
+2025-09-15,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-09-15,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-09-15,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-09-15,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-09-15,P016,Cookie Pack,Food,Local Bakery Co,21,9.06
+2025-09-15,P017,Cold Brew 330ml,Beverage,QuickSupplies,27,5.34
+2025-09-15,P018,Iced Latte 330ml,Beverage,Gourmet Beans,15,4.68
+2025-09-15,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-09-15,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-09-16,P001,Espresso Beans 250g,Beverage,Gourmet Beans,7,7.58
+2025-09-16,P002,Espresso Beans 1kg,Beverage,BeverageHub,23,2.81
+2025-09-16,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-09-16,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-09-16,P005,Oat Milk 1L,Dairy,Local Bakery Co,4,9.61
+2025-09-16,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-09-16,P007,Pain au Chocolat,Bakery,Gourmet Beans,19,1.52
+2025-09-16,P008,Bagel,Bakery,FreshDairy,19,6.88
+2025-09-16,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-09-16,P010,Muffin,Bakery,FreshDairy,7,7.26
+2025-09-16,P011,Bottled Water 500ml,Beverage,Gourmet Beans,42,2.3
+2025-09-16,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-09-16,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-09-16,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-09-16,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-09-16,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-09-16,P017,Cold Brew 330ml,Beverage,QuickSupplies,31,5.34
+2025-09-16,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-09-16,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-09-16,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-09-17,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-09-17,P002,Espresso Beans 1kg,Beverage,BeverageHub,16,2.81
+2025-09-17,P003,Ground Coffee 500g,Beverage,BeverageHub,37,7.25
+2025-09-17,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-17,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-09-17,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-17,P007,Pain au Chocolat,Bakery,Gourmet Beans,25,1.52
+2025-09-17,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-09-17,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-09-17,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-09-17,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-09-17,P012,Orange Juice 1L,Beverage,QuickSupplies,19,2.82
+2025-09-17,P013,Sandwich Ham-Cheese,Food,FreshDairy,4,4.49
+2025-09-17,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-09-17,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-09-17,P016,Cookie Pack,Food,Local Bakery Co,22,9.06
+2025-09-17,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-09-17,P018,Iced Latte 330ml,Beverage,Gourmet Beans,9,4.68
+2025-09-17,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-09-17,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-09-18,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-09-18,P002,Espresso Beans 1kg,Beverage,BeverageHub,14,2.81
+2025-09-18,P003,Ground Coffee 500g,Beverage,BeverageHub,44,7.25
+2025-09-18,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-09-18,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-09-18,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-18,P007,Pain au Chocolat,Bakery,Gourmet Beans,27,1.52
+2025-09-18,P008,Bagel,Bakery,FreshDairy,19,6.88
+2025-09-18,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-09-18,P010,Muffin,Bakery,FreshDairy,9,7.26
+2025-09-18,P011,Bottled Water 500ml,Beverage,Gourmet Beans,48,2.3
+2025-09-18,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-09-18,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-09-18,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-18,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-09-18,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-09-18,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-09-18,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-09-18,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-09-18,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-09-19,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-09-19,P002,Espresso Beans 1kg,Beverage,BeverageHub,7,2.81
+2025-09-19,P003,Ground Coffee 500g,Beverage,BeverageHub,33,7.25
+2025-09-19,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-09-19,P005,Oat Milk 1L,Dairy,Local Bakery Co,2,9.61
+2025-09-19,P006,Croissant,Bakery,FreshDairy,2,6.35
+2025-09-19,P007,Pain au Chocolat,Bakery,Gourmet Beans,28,1.52
+2025-09-19,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-09-19,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-09-19,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-09-19,P011,Bottled Water 500ml,Beverage,Gourmet Beans,59,2.3
+2025-09-19,P012,Orange Juice 1L,Beverage,QuickSupplies,18,2.82
+2025-09-19,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-09-19,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-09-19,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-09-19,P016,Cookie Pack,Food,Local Bakery Co,21,9.06
+2025-09-19,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-09-19,P018,Iced Latte 330ml,Beverage,Gourmet Beans,10,4.68
+2025-09-19,P019,Cup 8oz,Supply,Gourmet Beans,6,0.45
+2025-09-19,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-09-20,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-09-20,P002,Espresso Beans 1kg,Beverage,BeverageHub,29,2.81
+2025-09-20,P003,Ground Coffee 500g,Beverage,BeverageHub,57,7.25
+2025-09-20,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-09-20,P005,Oat Milk 1L,Dairy,Local Bakery Co,4,9.61
+2025-09-20,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-09-20,P007,Pain au Chocolat,Bakery,Gourmet Beans,44,1.52
+2025-09-20,P008,Bagel,Bakery,FreshDairy,33,6.88
+2025-09-20,P009,Sourdough Loaf,Bakery,FreshDairy,12,3.36
+2025-09-20,P010,Muffin,Bakery,FreshDairy,17,7.26
+2025-09-20,P011,Bottled Water 500ml,Beverage,Gourmet Beans,70,2.3
+2025-09-20,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-09-20,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-20,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-09-20,P015,Chocolate Bar,Food,QuickSupplies,12,3.24
+2025-09-20,P016,Cookie Pack,Food,Local Bakery Co,24,9.06
+2025-09-20,P017,Cold Brew 330ml,Beverage,QuickSupplies,47,5.34
+2025-09-20,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-09-20,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-09-20,P020,Paper Cup 12oz,Supply,BeverageHub,3,1.05
+2025-09-21,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-09-21,P002,Espresso Beans 1kg,Beverage,BeverageHub,21,2.81
+2025-09-21,P003,Ground Coffee 500g,Beverage,BeverageHub,60,7.25
+2025-09-21,P004,Latte Milk 1L,Dairy,QuickSupplies,8,7.78
+2025-09-21,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-09-21,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-09-21,P007,Pain au Chocolat,Bakery,Gourmet Beans,33,1.52
+2025-09-21,P008,Bagel,Bakery,FreshDairy,33,6.88
+2025-09-21,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-09-21,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-09-21,P011,Bottled Water 500ml,Beverage,Gourmet Beans,79,2.3
+2025-09-21,P012,Orange Juice 1L,Beverage,QuickSupplies,34,2.82
+2025-09-21,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-21,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-09-21,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-09-21,P016,Cookie Pack,Food,Local Bakery Co,22,9.06
+2025-09-21,P017,Cold Brew 330ml,Beverage,QuickSupplies,49,5.34
+2025-09-21,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-09-21,P019,Cup 8oz,Supply,Gourmet Beans,14,0.45
+2025-09-21,P020,Paper Cup 12oz,Supply,BeverageHub,16,1.05
+2025-09-22,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-09-22,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-09-22,P003,Ground Coffee 500g,Beverage,BeverageHub,34,7.25
+2025-09-22,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-09-22,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-09-22,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-22,P007,Pain au Chocolat,Bakery,Gourmet Beans,31,1.52
+2025-09-22,P008,Bagel,Bakery,FreshDairy,15,6.88
+2025-09-22,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-09-22,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-09-22,P011,Bottled Water 500ml,Beverage,Gourmet Beans,52,2.3
+2025-09-22,P012,Orange Juice 1L,Beverage,QuickSupplies,29,2.82
+2025-09-22,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-22,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-22,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-09-22,P016,Cookie Pack,Food,Local Bakery Co,24,9.06
+2025-09-22,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-09-22,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-09-22,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-09-22,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-09-23,P001,Espresso Beans 250g,Beverage,Gourmet Beans,5,7.58
+2025-09-23,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-09-23,P003,Ground Coffee 500g,Beverage,BeverageHub,35,7.25
+2025-09-23,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-09-23,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-09-23,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-23,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-09-23,P008,Bagel,Bakery,FreshDairy,19,6.88
+2025-09-23,P009,Sourdough Loaf,Bakery,FreshDairy,9,3.36
+2025-09-23,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-09-23,P011,Bottled Water 500ml,Beverage,Gourmet Beans,52,2.3
+2025-09-23,P012,Orange Juice 1L,Beverage,QuickSupplies,24,2.82
+2025-09-23,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-23,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-09-23,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-09-23,P016,Cookie Pack,Food,Local Bakery Co,30,9.06
+2025-09-23,P017,Cold Brew 330ml,Beverage,QuickSupplies,38,5.34
+2025-09-23,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-09-23,P019,Cup 8oz,Supply,Gourmet Beans,6,0.45
+2025-09-23,P020,Paper Cup 12oz,Supply,BeverageHub,16,1.05
+2025-09-24,P001,Espresso Beans 250g,Beverage,Gourmet Beans,6,7.58
+2025-09-24,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-09-24,P003,Ground Coffee 500g,Beverage,BeverageHub,57,7.25
+2025-09-24,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-09-24,P005,Oat Milk 1L,Dairy,Local Bakery Co,5,9.61
+2025-09-24,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-09-24,P007,Pain au Chocolat,Bakery,Gourmet Beans,30,1.52
+2025-09-24,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-09-24,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-09-24,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-09-24,P011,Bottled Water 500ml,Beverage,Gourmet Beans,53,2.3
+2025-09-24,P012,Orange Juice 1L,Beverage,QuickSupplies,18,2.82
+2025-09-24,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-09-24,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-24,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-09-24,P016,Cookie Pack,Food,Local Bakery Co,24,9.06
+2025-09-24,P017,Cold Brew 330ml,Beverage,QuickSupplies,45,5.34
+2025-09-24,P018,Iced Latte 330ml,Beverage,Gourmet Beans,9,4.68
+2025-09-24,P019,Cup 8oz,Supply,Gourmet Beans,6,0.45
+2025-09-24,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-09-25,P001,Espresso Beans 250g,Beverage,Gourmet Beans,4,7.58
+2025-09-25,P002,Espresso Beans 1kg,Beverage,BeverageHub,23,2.81
+2025-09-25,P003,Ground Coffee 500g,Beverage,BeverageHub,42,7.25
+2025-09-25,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-09-25,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-09-25,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-09-25,P007,Pain au Chocolat,Bakery,Gourmet Beans,39,1.52
+2025-09-25,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-09-25,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-09-25,P010,Muffin,Bakery,FreshDairy,20,7.26
+2025-09-25,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-09-25,P012,Orange Juice 1L,Beverage,QuickSupplies,25,2.82
+2025-09-25,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-09-25,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-09-25,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-09-25,P016,Cookie Pack,Food,Local Bakery Co,32,9.06
+2025-09-25,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-09-25,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-09-25,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-09-25,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-09-26,P001,Espresso Beans 250g,Beverage,Gourmet Beans,15,7.58
+2025-09-26,P002,Espresso Beans 1kg,Beverage,BeverageHub,28,2.81
+2025-09-26,P003,Ground Coffee 500g,Beverage,BeverageHub,40,7.25
+2025-09-26,P004,Latte Milk 1L,Dairy,QuickSupplies,7,7.78
+2025-09-26,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-09-26,P006,Croissant,Bakery,FreshDairy,10,6.35
+2025-09-26,P007,Pain au Chocolat,Bakery,Gourmet Beans,43,1.52
+2025-09-26,P008,Bagel,Bakery,FreshDairy,22,6.88
+2025-09-26,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-09-26,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-09-26,P011,Bottled Water 500ml,Beverage,Gourmet Beans,50,2.3
+2025-09-26,P012,Orange Juice 1L,Beverage,QuickSupplies,25,2.82
+2025-09-26,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-09-26,P014,Sandwich Veggie,Food,Gourmet Beans,12,3.7
+2025-09-26,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-09-26,P016,Cookie Pack,Food,Local Bakery Co,31,9.06
+2025-09-26,P017,Cold Brew 330ml,Beverage,QuickSupplies,38,5.34
+2025-09-26,P018,Iced Latte 330ml,Beverage,Gourmet Beans,13,4.68
+2025-09-26,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-09-26,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-09-27,P001,Espresso Beans 250g,Beverage,Gourmet Beans,16,7.58
+2025-09-27,P002,Espresso Beans 1kg,Beverage,BeverageHub,33,2.81
+2025-09-27,P003,Ground Coffee 500g,Beverage,BeverageHub,60,7.25
+2025-09-27,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-09-27,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-09-27,P006,Croissant,Bakery,FreshDairy,10,6.35
+2025-09-27,P007,Pain au Chocolat,Bakery,Gourmet Beans,47,1.52
+2025-09-27,P008,Bagel,Bakery,FreshDairy,42,6.88
+2025-09-27,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-09-27,P010,Muffin,Bakery,FreshDairy,20,7.26
+2025-09-27,P011,Bottled Water 500ml,Beverage,Gourmet Beans,68,2.3
+2025-09-27,P012,Orange Juice 1L,Beverage,QuickSupplies,38,2.82
+2025-09-27,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-09-27,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-09-27,P015,Chocolate Bar,Food,QuickSupplies,19,3.24
+2025-09-27,P016,Cookie Pack,Food,Local Bakery Co,25,9.06
+2025-09-27,P017,Cold Brew 330ml,Beverage,QuickSupplies,53,5.34
+2025-09-27,P018,Iced Latte 330ml,Beverage,Gourmet Beans,13,4.68
+2025-09-27,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-09-27,P020,Paper Cup 12oz,Supply,BeverageHub,27,1.05
+2025-09-28,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-09-28,P002,Espresso Beans 1kg,Beverage,BeverageHub,40,2.81
+2025-09-28,P003,Ground Coffee 500g,Beverage,BeverageHub,54,7.25
+2025-09-28,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-09-28,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-09-28,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-09-28,P007,Pain au Chocolat,Bakery,Gourmet Beans,67,1.52
+2025-09-28,P008,Bagel,Bakery,FreshDairy,38,6.88
+2025-09-28,P009,Sourdough Loaf,Bakery,FreshDairy,11,3.36
+2025-09-28,P010,Muffin,Bakery,FreshDairy,19,7.26
+2025-09-28,P011,Bottled Water 500ml,Beverage,Gourmet Beans,80,2.3
+2025-09-28,P012,Orange Juice 1L,Beverage,QuickSupplies,33,2.82
+2025-09-28,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-09-28,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-09-28,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-09-28,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-09-28,P017,Cold Brew 330ml,Beverage,QuickSupplies,53,5.34
+2025-09-28,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-09-28,P019,Cup 8oz,Supply,Gourmet Beans,5,0.45
+2025-09-28,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-09-29,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-09-29,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-09-29,P003,Ground Coffee 500g,Beverage,BeverageHub,45,7.25
+2025-09-29,P004,Latte Milk 1L,Dairy,QuickSupplies,7,7.78
+2025-09-29,P005,Oat Milk 1L,Dairy,Local Bakery Co,14,9.61
+2025-09-29,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-09-29,P007,Pain au Chocolat,Bakery,Gourmet Beans,36,1.52
+2025-09-29,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-09-29,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-09-29,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-09-29,P011,Bottled Water 500ml,Beverage,Gourmet Beans,50,2.3
+2025-09-29,P012,Orange Juice 1L,Beverage,QuickSupplies,19,2.82
+2025-09-29,P013,Sandwich Ham-Cheese,Food,FreshDairy,4,4.49
+2025-09-29,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-09-29,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-09-29,P016,Cookie Pack,Food,Local Bakery Co,29,9.06
+2025-09-29,P017,Cold Brew 330ml,Beverage,QuickSupplies,48,5.34
+2025-09-29,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-09-29,P019,Cup 8oz,Supply,Gourmet Beans,13,0.45
+2025-09-29,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-09-30,P001,Espresso Beans 250g,Beverage,Gourmet Beans,13,7.58
+2025-09-30,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-09-30,P003,Ground Coffee 500g,Beverage,BeverageHub,53,7.25
+2025-09-30,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-09-30,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-09-30,P006,Croissant,Bakery,FreshDairy,11,6.35
+2025-09-30,P007,Pain au Chocolat,Bakery,Gourmet Beans,39,1.52
+2025-09-30,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-09-30,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-09-30,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-09-30,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-09-30,P012,Orange Juice 1L,Beverage,QuickSupplies,32,2.82
+2025-09-30,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-09-30,P014,Sandwich Veggie,Food,Gourmet Beans,13,3.7
+2025-09-30,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-09-30,P016,Cookie Pack,Food,Local Bakery Co,38,9.06
+2025-09-30,P017,Cold Brew 330ml,Beverage,QuickSupplies,37,5.34
+2025-09-30,P018,Iced Latte 330ml,Beverage,Gourmet Beans,31,4.68
+2025-09-30,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-09-30,P020,Paper Cup 12oz,Supply,BeverageHub,6,1.05
+2025-10-01,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-10-01,P002,Espresso Beans 1kg,Beverage,BeverageHub,22,2.81
+2025-10-01,P003,Ground Coffee 500g,Beverage,BeverageHub,47,7.25
+2025-10-01,P004,Latte Milk 1L,Dairy,QuickSupplies,0,7.78
+2025-10-01,P005,Oat Milk 1L,Dairy,Local Bakery Co,14,9.61
+2025-10-01,P006,Croissant,Bakery,FreshDairy,13,6.35
+2025-10-01,P007,Pain au Chocolat,Bakery,Gourmet Beans,31,1.52
+2025-10-01,P008,Bagel,Bakery,FreshDairy,23,6.88
+2025-10-01,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-10-01,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-10-01,P011,Bottled Water 500ml,Beverage,Gourmet Beans,67,2.3
+2025-10-01,P012,Orange Juice 1L,Beverage,QuickSupplies,33,2.82
+2025-10-01,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-10-01,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-10-01,P015,Chocolate Bar,Food,QuickSupplies,19,3.24
+2025-10-01,P016,Cookie Pack,Food,Local Bakery Co,29,9.06
+2025-10-01,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-10-01,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-10-01,P019,Cup 8oz,Supply,Gourmet Beans,13,0.45
+2025-10-01,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-10-02,P001,Espresso Beans 250g,Beverage,Gourmet Beans,6,7.58
+2025-10-02,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-10-02,P003,Ground Coffee 500g,Beverage,BeverageHub,45,7.25
+2025-10-02,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-02,P005,Oat Milk 1L,Dairy,Local Bakery Co,16,9.61
+2025-10-02,P006,Croissant,Bakery,FreshDairy,12,6.35
+2025-10-02,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-10-02,P008,Bagel,Bakery,FreshDairy,30,6.88
+2025-10-02,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-10-02,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-10-02,P011,Bottled Water 500ml,Beverage,Gourmet Beans,51,2.3
+2025-10-02,P012,Orange Juice 1L,Beverage,QuickSupplies,29,2.82
+2025-10-02,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-02,P014,Sandwich Veggie,Food,Gourmet Beans,15,3.7
+2025-10-02,P015,Chocolate Bar,Food,QuickSupplies,8,3.24
+2025-10-02,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-10-02,P017,Cold Brew 330ml,Beverage,QuickSupplies,42,5.34
+2025-10-02,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-10-02,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-10-02,P020,Paper Cup 12oz,Supply,BeverageHub,18,1.05
+2025-10-03,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-10-03,P002,Espresso Beans 1kg,Beverage,BeverageHub,12,2.81
+2025-10-03,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-10-03,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-10-03,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-10-03,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-03,P007,Pain au Chocolat,Bakery,Gourmet Beans,43,1.52
+2025-10-03,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-10-03,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-10-03,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-10-03,P011,Bottled Water 500ml,Beverage,Gourmet Beans,61,2.3
+2025-10-03,P012,Orange Juice 1L,Beverage,QuickSupplies,23,2.82
+2025-10-03,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-03,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-10-03,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-10-03,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-10-03,P017,Cold Brew 330ml,Beverage,QuickSupplies,39,5.34
+2025-10-03,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-10-03,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-10-03,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-10-04,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-10-04,P002,Espresso Beans 1kg,Beverage,BeverageHub,21,2.81
+2025-10-04,P003,Ground Coffee 500g,Beverage,BeverageHub,54,7.25
+2025-10-04,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-10-04,P005,Oat Milk 1L,Dairy,Local Bakery Co,11,9.61
+2025-10-04,P006,Croissant,Bakery,FreshDairy,10,6.35
+2025-10-04,P007,Pain au Chocolat,Bakery,Gourmet Beans,57,1.52
+2025-10-04,P008,Bagel,Bakery,FreshDairy,38,6.88
+2025-10-04,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-10-04,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-10-04,P011,Bottled Water 500ml,Beverage,Gourmet Beans,69,2.3
+2025-10-04,P012,Orange Juice 1L,Beverage,QuickSupplies,37,2.82
+2025-10-04,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-04,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-04,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-10-04,P016,Cookie Pack,Food,Local Bakery Co,31,9.06
+2025-10-04,P017,Cold Brew 330ml,Beverage,QuickSupplies,51,5.34
+2025-10-04,P018,Iced Latte 330ml,Beverage,Gourmet Beans,13,4.68
+2025-10-04,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-10-04,P020,Paper Cup 12oz,Supply,BeverageHub,16,1.05
+2025-10-05,P001,Espresso Beans 250g,Beverage,Gourmet Beans,15,7.58
+2025-10-05,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-10-05,P003,Ground Coffee 500g,Beverage,BeverageHub,63,7.25
+2025-10-05,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-10-05,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-05,P006,Croissant,Bakery,FreshDairy,13,6.35
+2025-10-05,P007,Pain au Chocolat,Bakery,Gourmet Beans,52,1.52
+2025-10-05,P008,Bagel,Bakery,FreshDairy,32,6.88
+2025-10-05,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-10-05,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-10-05,P011,Bottled Water 500ml,Beverage,Gourmet Beans,78,2.3
+2025-10-05,P012,Orange Juice 1L,Beverage,QuickSupplies,38,2.82
+2025-10-05,P013,Sandwich Ham-Cheese,Food,FreshDairy,4,4.49
+2025-10-05,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-10-05,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-10-05,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-10-05,P017,Cold Brew 330ml,Beverage,QuickSupplies,46,5.34
+2025-10-05,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-10-05,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-10-05,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-10-06,P001,Espresso Beans 250g,Beverage,Gourmet Beans,7,7.58
+2025-10-06,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-10-06,P003,Ground Coffee 500g,Beverage,BeverageHub,39,7.25
+2025-10-06,P004,Latte Milk 1L,Dairy,QuickSupplies,8,7.78
+2025-10-06,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-06,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-06,P007,Pain au Chocolat,Bakery,Gourmet Beans,29,1.52
+2025-10-06,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-10-06,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-10-06,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-10-06,P011,Bottled Water 500ml,Beverage,Gourmet Beans,51,2.3
+2025-10-06,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-10-06,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-10-06,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-10-06,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-10-06,P016,Cookie Pack,Food,Local Bakery Co,34,9.06
+2025-10-06,P017,Cold Brew 330ml,Beverage,QuickSupplies,37,5.34
+2025-10-06,P018,Iced Latte 330ml,Beverage,Gourmet Beans,26,4.68
+2025-10-06,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-10-06,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-10-07,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-10-07,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-10-07,P003,Ground Coffee 500g,Beverage,BeverageHub,40,7.25
+2025-10-07,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-10-07,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-10-07,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-10-07,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-10-07,P008,Bagel,Bakery,FreshDairy,39,6.88
+2025-10-07,P009,Sourdough Loaf,Bakery,FreshDairy,12,3.36
+2025-10-07,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-10-07,P011,Bottled Water 500ml,Beverage,Gourmet Beans,65,2.3
+2025-10-07,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-10-07,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-07,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-07,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-10-07,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-10-07,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-10-07,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-10-07,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-10-07,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-10-08,P001,Espresso Beans 250g,Beverage,Gourmet Beans,5,7.58
+2025-10-08,P002,Espresso Beans 1kg,Beverage,BeverageHub,12,2.81
+2025-10-08,P003,Ground Coffee 500g,Beverage,BeverageHub,44,7.25
+2025-10-08,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-08,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-08,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-10-08,P007,Pain au Chocolat,Bakery,Gourmet Beans,40,1.52
+2025-10-08,P008,Bagel,Bakery,FreshDairy,26,6.88
+2025-10-08,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-10-08,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-10-08,P011,Bottled Water 500ml,Beverage,Gourmet Beans,62,2.3
+2025-10-08,P012,Orange Juice 1L,Beverage,QuickSupplies,23,2.82
+2025-10-08,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-08,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-08,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-10-08,P016,Cookie Pack,Food,Local Bakery Co,25,9.06
+2025-10-08,P017,Cold Brew 330ml,Beverage,QuickSupplies,37,5.34
+2025-10-08,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-10-08,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-10-08,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-10-09,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-10-09,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-10-09,P003,Ground Coffee 500g,Beverage,BeverageHub,38,7.25
+2025-10-09,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-10-09,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-10-09,P006,Croissant,Bakery,FreshDairy,10,6.35
+2025-10-09,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-10-09,P008,Bagel,Bakery,FreshDairy,20,6.88
+2025-10-09,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-10-09,P010,Muffin,Bakery,FreshDairy,17,7.26
+2025-10-09,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-10-09,P012,Orange Juice 1L,Beverage,QuickSupplies,29,2.82
+2025-10-09,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-09,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-10-09,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-10-09,P016,Cookie Pack,Food,Local Bakery Co,33,9.06
+2025-10-09,P017,Cold Brew 330ml,Beverage,QuickSupplies,40,5.34
+2025-10-09,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-10-09,P019,Cup 8oz,Supply,Gourmet Beans,4,0.45
+2025-10-09,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-10-10,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-10-10,P002,Espresso Beans 1kg,Beverage,BeverageHub,11,2.81
+2025-10-10,P003,Ground Coffee 500g,Beverage,BeverageHub,36,7.25
+2025-10-10,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-10-10,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-10,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-10,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-10-10,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-10-10,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-10-10,P010,Muffin,Bakery,FreshDairy,7,7.26
+2025-10-10,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-10-10,P012,Orange Juice 1L,Beverage,QuickSupplies,19,2.82
+2025-10-10,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-10,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-10,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-10-10,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-10-10,P017,Cold Brew 330ml,Beverage,QuickSupplies,30,5.34
+2025-10-10,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-10-10,P019,Cup 8oz,Supply,Gourmet Beans,13,0.45
+2025-10-10,P020,Paper Cup 12oz,Supply,BeverageHub,7,1.05
+2025-10-11,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-10-11,P002,Espresso Beans 1kg,Beverage,BeverageHub,25,2.81
+2025-10-11,P003,Ground Coffee 500g,Beverage,BeverageHub,55,7.25
+2025-10-11,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-10-11,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-10-11,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-11,P007,Pain au Chocolat,Bakery,Gourmet Beans,44,1.52
+2025-10-11,P008,Bagel,Bakery,FreshDairy,26,6.88
+2025-10-11,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-10-11,P010,Muffin,Bakery,FreshDairy,22,7.26
+2025-10-11,P011,Bottled Water 500ml,Beverage,Gourmet Beans,69,2.3
+2025-10-11,P012,Orange Juice 1L,Beverage,QuickSupplies,31,2.82
+2025-10-11,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-11,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-11,P015,Chocolate Bar,Food,QuickSupplies,12,3.24
+2025-10-11,P016,Cookie Pack,Food,Local Bakery Co,24,9.06
+2025-10-11,P017,Cold Brew 330ml,Beverage,QuickSupplies,44,5.34
+2025-10-11,P018,Iced Latte 330ml,Beverage,Gourmet Beans,30,4.68
+2025-10-11,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-10-11,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-10-12,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-10-12,P002,Espresso Beans 1kg,Beverage,BeverageHub,29,2.81
+2025-10-12,P003,Ground Coffee 500g,Beverage,BeverageHub,47,7.25
+2025-10-12,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-12,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-10-12,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-10-12,P007,Pain au Chocolat,Bakery,Gourmet Beans,50,1.52
+2025-10-12,P008,Bagel,Bakery,FreshDairy,28,6.88
+2025-10-12,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-10-12,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-10-12,P011,Bottled Water 500ml,Beverage,Gourmet Beans,68,2.3
+2025-10-12,P012,Orange Juice 1L,Beverage,QuickSupplies,44,2.82
+2025-10-12,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-12,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-10-12,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-10-12,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-10-12,P017,Cold Brew 330ml,Beverage,QuickSupplies,33,5.34
+2025-10-12,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-10-12,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-10-12,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-10-13,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-10-13,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-10-13,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-10-13,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-13,P005,Oat Milk 1L,Dairy,Local Bakery Co,5,9.61
+2025-10-13,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-13,P007,Pain au Chocolat,Bakery,Gourmet Beans,21,1.52
+2025-10-13,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-10-13,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-10-13,P010,Muffin,Bakery,FreshDairy,4,7.26
+2025-10-13,P011,Bottled Water 500ml,Beverage,Gourmet Beans,51,2.3
+2025-10-13,P012,Orange Juice 1L,Beverage,QuickSupplies,31,2.82
+2025-10-13,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-10-13,P014,Sandwich Veggie,Food,Gourmet Beans,4,3.7
+2025-10-13,P015,Chocolate Bar,Food,QuickSupplies,9,3.24
+2025-10-13,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-10-13,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-10-13,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-10-13,P019,Cup 8oz,Supply,Gourmet Beans,3,0.45
+2025-10-13,P020,Paper Cup 12oz,Supply,BeverageHub,19,1.05
+2025-10-14,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-10-14,P002,Espresso Beans 1kg,Beverage,BeverageHub,23,2.81
+2025-10-14,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-10-14,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-10-14,P005,Oat Milk 1L,Dairy,Local Bakery Co,11,9.61
+2025-10-14,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-10-14,P007,Pain au Chocolat,Bakery,Gourmet Beans,34,1.52
+2025-10-14,P008,Bagel,Bakery,FreshDairy,17,6.88
+2025-10-14,P009,Sourdough Loaf,Bakery,FreshDairy,9,3.36
+2025-10-14,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-10-14,P011,Bottled Water 500ml,Beverage,Gourmet Beans,41,2.3
+2025-10-14,P012,Orange Juice 1L,Beverage,QuickSupplies,25,2.82
+2025-10-14,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-14,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-14,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-10-14,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-10-14,P017,Cold Brew 330ml,Beverage,QuickSupplies,25,5.34
+2025-10-14,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-10-14,P019,Cup 8oz,Supply,Gourmet Beans,4,0.45
+2025-10-14,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-10-15,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-10-15,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-10-15,P003,Ground Coffee 500g,Beverage,BeverageHub,38,7.25
+2025-10-15,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-10-15,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-10-15,P006,Croissant,Bakery,FreshDairy,3,6.35
+2025-10-15,P007,Pain au Chocolat,Bakery,Gourmet Beans,27,1.52
+2025-10-15,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-10-15,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-10-15,P010,Muffin,Bakery,FreshDairy,17,7.26
+2025-10-15,P011,Bottled Water 500ml,Beverage,Gourmet Beans,50,2.3
+2025-10-15,P012,Orange Juice 1L,Beverage,QuickSupplies,21,2.82
+2025-10-15,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-10-15,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-15,P015,Chocolate Bar,Food,QuickSupplies,16,3.24
+2025-10-15,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-10-15,P017,Cold Brew 330ml,Beverage,QuickSupplies,29,5.34
+2025-10-15,P018,Iced Latte 330ml,Beverage,Gourmet Beans,13,4.68
+2025-10-15,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-10-15,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-10-16,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-10-16,P002,Espresso Beans 1kg,Beverage,BeverageHub,26,2.81
+2025-10-16,P003,Ground Coffee 500g,Beverage,BeverageHub,33,7.25
+2025-10-16,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-16,P005,Oat Milk 1L,Dairy,Local Bakery Co,13,9.61
+2025-10-16,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-16,P007,Pain au Chocolat,Bakery,Gourmet Beans,43,1.52
+2025-10-16,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-10-16,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-10-16,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-10-16,P011,Bottled Water 500ml,Beverage,Gourmet Beans,34,2.3
+2025-10-16,P012,Orange Juice 1L,Beverage,QuickSupplies,24,2.82
+2025-10-16,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-16,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-10-16,P015,Chocolate Bar,Food,QuickSupplies,16,3.24
+2025-10-16,P016,Cookie Pack,Food,Local Bakery Co,31,9.06
+2025-10-16,P017,Cold Brew 330ml,Beverage,QuickSupplies,24,5.34
+2025-10-16,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-10-16,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-10-16,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-10-17,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-10-17,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-10-17,P003,Ground Coffee 500g,Beverage,BeverageHub,34,7.25
+2025-10-17,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-10-17,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-10-17,P006,Croissant,Bakery,FreshDairy,3,6.35
+2025-10-17,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-10-17,P008,Bagel,Bakery,FreshDairy,16,6.88
+2025-10-17,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-10-17,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-10-17,P011,Bottled Water 500ml,Beverage,Gourmet Beans,38,2.3
+2025-10-17,P012,Orange Juice 1L,Beverage,QuickSupplies,14,2.82
+2025-10-17,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-10-17,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-17,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-10-17,P016,Cookie Pack,Food,Local Bakery Co,20,9.06
+2025-10-17,P017,Cold Brew 330ml,Beverage,QuickSupplies,24,5.34
+2025-10-17,P018,Iced Latte 330ml,Beverage,Gourmet Beans,13,4.68
+2025-10-17,P019,Cup 8oz,Supply,Gourmet Beans,5,0.45
+2025-10-17,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-10-18,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-10-18,P002,Espresso Beans 1kg,Beverage,BeverageHub,16,2.81
+2025-10-18,P003,Ground Coffee 500g,Beverage,BeverageHub,43,7.25
+2025-10-18,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-10-18,P005,Oat Milk 1L,Dairy,Local Bakery Co,5,9.61
+2025-10-18,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-10-18,P007,Pain au Chocolat,Bakery,Gourmet Beans,47,1.52
+2025-10-18,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-10-18,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-10-18,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-10-18,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-10-18,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-10-18,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-10-18,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-18,P015,Chocolate Bar,Food,QuickSupplies,7,3.24
+2025-10-18,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-10-18,P017,Cold Brew 330ml,Beverage,QuickSupplies,57,5.34
+2025-10-18,P018,Iced Latte 330ml,Beverage,Gourmet Beans,9,4.68
+2025-10-18,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-10-18,P020,Paper Cup 12oz,Supply,BeverageHub,7,1.05
+2025-10-19,P001,Espresso Beans 250g,Beverage,Gourmet Beans,17,7.58
+2025-10-19,P002,Espresso Beans 1kg,Beverage,BeverageHub,26,2.81
+2025-10-19,P003,Ground Coffee 500g,Beverage,BeverageHub,44,7.25
+2025-10-19,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-10-19,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-10-19,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-10-19,P007,Pain au Chocolat,Bakery,Gourmet Beans,44,1.52
+2025-10-19,P008,Bagel,Bakery,FreshDairy,33,6.88
+2025-10-19,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-10-19,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-10-19,P011,Bottled Water 500ml,Beverage,Gourmet Beans,53,2.3
+2025-10-19,P012,Orange Juice 1L,Beverage,QuickSupplies,42,2.82
+2025-10-19,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-19,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-19,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-10-19,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-10-19,P017,Cold Brew 330ml,Beverage,QuickSupplies,28,5.34
+2025-10-19,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-10-19,P019,Cup 8oz,Supply,Gourmet Beans,15,0.45
+2025-10-19,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-10-20,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-10-20,P002,Espresso Beans 1kg,Beverage,BeverageHub,20,2.81
+2025-10-20,P003,Ground Coffee 500g,Beverage,BeverageHub,31,7.25
+2025-10-20,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-10-20,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-20,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-10-20,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-10-20,P008,Bagel,Bakery,FreshDairy,21,6.88
+2025-10-20,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-10-20,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-10-20,P011,Bottled Water 500ml,Beverage,Gourmet Beans,48,2.3
+2025-10-20,P012,Orange Juice 1L,Beverage,QuickSupplies,31,2.82
+2025-10-20,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-20,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-20,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-10-20,P016,Cookie Pack,Food,Local Bakery Co,22,9.06
+2025-10-20,P017,Cold Brew 330ml,Beverage,QuickSupplies,40,5.34
+2025-10-20,P018,Iced Latte 330ml,Beverage,Gourmet Beans,15,4.68
+2025-10-20,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-10-20,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-10-21,P001,Espresso Beans 250g,Beverage,Gourmet Beans,15,7.58
+2025-10-21,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-10-21,P003,Ground Coffee 500g,Beverage,BeverageHub,44,7.25
+2025-10-21,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-10-21,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-21,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-10-21,P007,Pain au Chocolat,Bakery,Gourmet Beans,36,1.52
+2025-10-21,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-10-21,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-10-21,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-10-21,P011,Bottled Water 500ml,Beverage,Gourmet Beans,44,2.3
+2025-10-21,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-10-21,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-21,P014,Sandwich Veggie,Food,Gourmet Beans,3,3.7
+2025-10-21,P015,Chocolate Bar,Food,QuickSupplies,19,3.24
+2025-10-21,P016,Cookie Pack,Food,Local Bakery Co,24,9.06
+2025-10-21,P017,Cold Brew 330ml,Beverage,QuickSupplies,33,5.34
+2025-10-21,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-10-21,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-10-21,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-10-22,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-10-22,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-10-22,P003,Ground Coffee 500g,Beverage,BeverageHub,39,7.25
+2025-10-22,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-10-22,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-10-22,P006,Croissant,Bakery,FreshDairy,10,6.35
+2025-10-22,P007,Pain au Chocolat,Bakery,Gourmet Beans,27,1.52
+2025-10-22,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-10-22,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-10-22,P010,Muffin,Bakery,FreshDairy,8,7.26
+2025-10-22,P011,Bottled Water 500ml,Beverage,Gourmet Beans,58,2.3
+2025-10-22,P012,Orange Juice 1L,Beverage,QuickSupplies,27,2.82
+2025-10-22,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-10-22,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-10-22,P015,Chocolate Bar,Food,QuickSupplies,22,3.24
+2025-10-22,P016,Cookie Pack,Food,Local Bakery Co,24,9.06
+2025-10-22,P017,Cold Brew 330ml,Beverage,QuickSupplies,30,5.34
+2025-10-22,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-10-22,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-10-22,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-10-23,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-10-23,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-10-23,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-10-23,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-23,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-23,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-10-23,P007,Pain au Chocolat,Bakery,Gourmet Beans,35,1.52
+2025-10-23,P008,Bagel,Bakery,FreshDairy,31,6.88
+2025-10-23,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-10-23,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-10-23,P011,Bottled Water 500ml,Beverage,Gourmet Beans,63,2.3
+2025-10-23,P012,Orange Juice 1L,Beverage,QuickSupplies,32,2.82
+2025-10-23,P013,Sandwich Ham-Cheese,Food,FreshDairy,0,4.49
+2025-10-23,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-23,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-10-23,P016,Cookie Pack,Food,Local Bakery Co,22,9.06
+2025-10-23,P017,Cold Brew 330ml,Beverage,QuickSupplies,32,5.34
+2025-10-23,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-10-23,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-10-23,P020,Paper Cup 12oz,Supply,BeverageHub,3,1.05
+2025-10-24,P001,Espresso Beans 250g,Beverage,Gourmet Beans,7,7.58
+2025-10-24,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-10-24,P003,Ground Coffee 500g,Beverage,BeverageHub,40,7.25
+2025-10-24,P004,Latte Milk 1L,Dairy,QuickSupplies,8,7.78
+2025-10-24,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-10-24,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-10-24,P007,Pain au Chocolat,Bakery,Gourmet Beans,31,1.52
+2025-10-24,P008,Bagel,Bakery,FreshDairy,35,6.88
+2025-10-24,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-10-24,P010,Muffin,Bakery,FreshDairy,7,7.26
+2025-10-24,P011,Bottled Water 500ml,Beverage,Gourmet Beans,73,2.3
+2025-10-24,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-10-24,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-10-24,P014,Sandwich Veggie,Food,Gourmet Beans,12,3.7
+2025-10-24,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-10-24,P016,Cookie Pack,Food,Local Bakery Co,21,9.06
+2025-10-24,P017,Cold Brew 330ml,Beverage,QuickSupplies,33,5.34
+2025-10-24,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-10-24,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-10-24,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-10-25,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-10-25,P002,Espresso Beans 1kg,Beverage,BeverageHub,18,2.81
+2025-10-25,P003,Ground Coffee 500g,Beverage,BeverageHub,62,7.25
+2025-10-25,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-10-25,P005,Oat Milk 1L,Dairy,Local Bakery Co,13,9.61
+2025-10-25,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-10-25,P007,Pain au Chocolat,Bakery,Gourmet Beans,45,1.52
+2025-10-25,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-10-25,P009,Sourdough Loaf,Bakery,FreshDairy,11,3.36
+2025-10-25,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-10-25,P011,Bottled Water 500ml,Beverage,Gourmet Beans,64,2.3
+2025-10-25,P012,Orange Juice 1L,Beverage,QuickSupplies,35,2.82
+2025-10-25,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-25,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-10-25,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-10-25,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-10-25,P017,Cold Brew 330ml,Beverage,QuickSupplies,52,5.34
+2025-10-25,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-10-25,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-10-25,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-10-26,P001,Espresso Beans 250g,Beverage,Gourmet Beans,16,7.58
+2025-10-26,P002,Espresso Beans 1kg,Beverage,BeverageHub,23,2.81
+2025-10-26,P003,Ground Coffee 500g,Beverage,BeverageHub,58,7.25
+2025-10-26,P004,Latte Milk 1L,Dairy,QuickSupplies,7,7.78
+2025-10-26,P005,Oat Milk 1L,Dairy,Local Bakery Co,14,9.61
+2025-10-26,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-10-26,P007,Pain au Chocolat,Bakery,Gourmet Beans,58,1.52
+2025-10-26,P008,Bagel,Bakery,FreshDairy,37,6.88
+2025-10-26,P009,Sourdough Loaf,Bakery,FreshDairy,10,3.36
+2025-10-26,P010,Muffin,Bakery,FreshDairy,19,7.26
+2025-10-26,P011,Bottled Water 500ml,Beverage,Gourmet Beans,71,2.3
+2025-10-26,P012,Orange Juice 1L,Beverage,QuickSupplies,37,2.82
+2025-10-26,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-26,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-10-26,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-10-26,P016,Cookie Pack,Food,Local Bakery Co,20,9.06
+2025-10-26,P017,Cold Brew 330ml,Beverage,QuickSupplies,43,5.34
+2025-10-26,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-10-26,P019,Cup 8oz,Supply,Gourmet Beans,13,0.45
+2025-10-26,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-10-27,P001,Espresso Beans 250g,Beverage,Gourmet Beans,21,7.58
+2025-10-27,P002,Espresso Beans 1kg,Beverage,BeverageHub,24,2.81
+2025-10-27,P003,Ground Coffee 500g,Beverage,BeverageHub,45,7.25
+2025-10-27,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-10-27,P005,Oat Milk 1L,Dairy,Local Bakery Co,11,9.61
+2025-10-27,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-10-27,P007,Pain au Chocolat,Bakery,Gourmet Beans,39,1.52
+2025-10-27,P008,Bagel,Bakery,FreshDairy,28,6.88
+2025-10-27,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-10-27,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-10-27,P011,Bottled Water 500ml,Beverage,Gourmet Beans,50,2.3
+2025-10-27,P012,Orange Juice 1L,Beverage,QuickSupplies,37,2.82
+2025-10-27,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-27,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-27,P015,Chocolate Bar,Food,QuickSupplies,12,3.24
+2025-10-27,P016,Cookie Pack,Food,Local Bakery Co,30,9.06
+2025-10-27,P017,Cold Brew 330ml,Beverage,QuickSupplies,39,5.34
+2025-10-27,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-10-27,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-10-27,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-10-28,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-10-28,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-10-28,P003,Ground Coffee 500g,Beverage,BeverageHub,50,7.25
+2025-10-28,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-10-28,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-10-28,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-10-28,P007,Pain au Chocolat,Bakery,Gourmet Beans,39,1.52
+2025-10-28,P008,Bagel,Bakery,FreshDairy,21,6.88
+2025-10-28,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-10-28,P010,Muffin,Bakery,FreshDairy,15,7.26
+2025-10-28,P011,Bottled Water 500ml,Beverage,Gourmet Beans,71,2.3
+2025-10-28,P012,Orange Juice 1L,Beverage,QuickSupplies,37,2.82
+2025-10-28,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-10-28,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-28,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-10-28,P016,Cookie Pack,Food,Local Bakery Co,34,9.06
+2025-10-28,P017,Cold Brew 330ml,Beverage,QuickSupplies,30,5.34
+2025-10-28,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-10-28,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-10-28,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-10-29,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-10-29,P002,Espresso Beans 1kg,Beverage,BeverageHub,22,2.81
+2025-10-29,P003,Ground Coffee 500g,Beverage,BeverageHub,47,7.25
+2025-10-29,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-10-29,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-10-29,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-10-29,P007,Pain au Chocolat,Bakery,Gourmet Beans,43,1.52
+2025-10-29,P008,Bagel,Bakery,FreshDairy,30,6.88
+2025-10-29,P009,Sourdough Loaf,Bakery,FreshDairy,2,3.36
+2025-10-29,P010,Muffin,Bakery,FreshDairy,20,7.26
+2025-10-29,P011,Bottled Water 500ml,Beverage,Gourmet Beans,52,2.3
+2025-10-29,P012,Orange Juice 1L,Beverage,QuickSupplies,38,2.82
+2025-10-29,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-29,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-10-29,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-10-29,P016,Cookie Pack,Food,Local Bakery Co,35,9.06
+2025-10-29,P017,Cold Brew 330ml,Beverage,QuickSupplies,27,5.34
+2025-10-29,P018,Iced Latte 330ml,Beverage,Gourmet Beans,12,4.68
+2025-10-29,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-10-29,P020,Paper Cup 12oz,Supply,BeverageHub,17,1.05
+2025-10-30,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-10-30,P002,Espresso Beans 1kg,Beverage,BeverageHub,26,2.81
+2025-10-30,P003,Ground Coffee 500g,Beverage,BeverageHub,46,7.25
+2025-10-30,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-10-30,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-10-30,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-10-30,P007,Pain au Chocolat,Bakery,Gourmet Beans,36,1.52
+2025-10-30,P008,Bagel,Bakery,FreshDairy,31,6.88
+2025-10-30,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-10-30,P010,Muffin,Bakery,FreshDairy,16,7.26
+2025-10-30,P011,Bottled Water 500ml,Beverage,Gourmet Beans,59,2.3
+2025-10-30,P012,Orange Juice 1L,Beverage,QuickSupplies,32,2.82
+2025-10-30,P013,Sandwich Ham-Cheese,Food,FreshDairy,5,4.49
+2025-10-30,P014,Sandwich Veggie,Food,Gourmet Beans,12,3.7
+2025-10-30,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-10-30,P016,Cookie Pack,Food,Local Bakery Co,21,9.06
+2025-10-30,P017,Cold Brew 330ml,Beverage,QuickSupplies,38,5.34
+2025-10-30,P018,Iced Latte 330ml,Beverage,Gourmet Beans,15,4.68
+2025-10-30,P019,Cup 8oz,Supply,Gourmet Beans,12,0.45
+2025-10-30,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-10-31,P001,Espresso Beans 250g,Beverage,Gourmet Beans,13,7.58
+2025-10-31,P002,Espresso Beans 1kg,Beverage,BeverageHub,22,2.81
+2025-10-31,P003,Ground Coffee 500g,Beverage,BeverageHub,54,7.25
+2025-10-31,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-10-31,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-10-31,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-10-31,P007,Pain au Chocolat,Bakery,Gourmet Beans,30,1.52
+2025-10-31,P008,Bagel,Bakery,FreshDairy,29,6.88
+2025-10-31,P009,Sourdough Loaf,Bakery,FreshDairy,12,3.36
+2025-10-31,P010,Muffin,Bakery,FreshDairy,18,7.26
+2025-10-31,P011,Bottled Water 500ml,Beverage,Gourmet Beans,42,2.3
+2025-10-31,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-10-31,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-10-31,P014,Sandwich Veggie,Food,Gourmet Beans,3,3.7
+2025-10-31,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-10-31,P016,Cookie Pack,Food,Local Bakery Co,29,9.06
+2025-10-31,P017,Cold Brew 330ml,Beverage,QuickSupplies,28,5.34
+2025-10-31,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-10-31,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-10-31,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-11-01,P001,Espresso Beans 250g,Beverage,Gourmet Beans,14,7.58
+2025-11-01,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-11-01,P003,Ground Coffee 500g,Beverage,BeverageHub,58,7.25
+2025-11-01,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-01,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-11-01,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-11-01,P007,Pain au Chocolat,Bakery,Gourmet Beans,50,1.52
+2025-11-01,P008,Bagel,Bakery,FreshDairy,34,6.88
+2025-11-01,P009,Sourdough Loaf,Bakery,FreshDairy,14,3.36
+2025-11-01,P010,Muffin,Bakery,FreshDairy,23,7.26
+2025-11-01,P011,Bottled Water 500ml,Beverage,Gourmet Beans,73,2.3
+2025-11-01,P012,Orange Juice 1L,Beverage,QuickSupplies,40,2.82
+2025-11-01,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-01,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-11-01,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-11-01,P016,Cookie Pack,Food,Local Bakery Co,30,9.06
+2025-11-01,P017,Cold Brew 330ml,Beverage,QuickSupplies,50,5.34
+2025-11-01,P018,Iced Latte 330ml,Beverage,Gourmet Beans,22,4.68
+2025-11-01,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-11-01,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-11-02,P001,Espresso Beans 250g,Beverage,Gourmet Beans,17,7.58
+2025-11-02,P002,Espresso Beans 1kg,Beverage,BeverageHub,32,2.81
+2025-11-02,P003,Ground Coffee 500g,Beverage,BeverageHub,67,7.25
+2025-11-02,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-02,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-11-02,P006,Croissant,Bakery,FreshDairy,3,6.35
+2025-11-02,P007,Pain au Chocolat,Bakery,Gourmet Beans,55,1.52
+2025-11-02,P008,Bagel,Bakery,FreshDairy,32,6.88
+2025-11-02,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-11-02,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-11-02,P011,Bottled Water 500ml,Beverage,Gourmet Beans,93,2.3
+2025-11-02,P012,Orange Juice 1L,Beverage,QuickSupplies,44,2.82
+2025-11-02,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-02,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-11-02,P015,Chocolate Bar,Food,QuickSupplies,12,3.24
+2025-11-02,P016,Cookie Pack,Food,Local Bakery Co,34,9.06
+2025-11-02,P017,Cold Brew 330ml,Beverage,QuickSupplies,42,5.34
+2025-11-02,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-11-02,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-11-02,P020,Paper Cup 12oz,Supply,BeverageHub,13,1.05
+2025-11-03,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-11-03,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-11-03,P003,Ground Coffee 500g,Beverage,BeverageHub,45,7.25
+2025-11-03,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-11-03,P005,Oat Milk 1L,Dairy,Local Bakery Co,11,9.61
+2025-11-03,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-11-03,P007,Pain au Chocolat,Bakery,Gourmet Beans,50,1.52
+2025-11-03,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-11-03,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-11-03,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-11-03,P011,Bottled Water 500ml,Beverage,Gourmet Beans,66,2.3
+2025-11-03,P012,Orange Juice 1L,Beverage,QuickSupplies,27,2.82
+2025-11-03,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-03,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-11-03,P015,Chocolate Bar,Food,QuickSupplies,23,3.24
+2025-11-03,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-11-03,P017,Cold Brew 330ml,Beverage,QuickSupplies,46,5.34
+2025-11-03,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-11-03,P019,Cup 8oz,Supply,Gourmet Beans,11,0.45
+2025-11-03,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-11-04,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-11-04,P002,Espresso Beans 1kg,Beverage,BeverageHub,21,2.81
+2025-11-04,P003,Ground Coffee 500g,Beverage,BeverageHub,37,7.25
+2025-11-04,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-11-04,P005,Oat Milk 1L,Dairy,Local Bakery Co,11,9.61
+2025-11-04,P006,Croissant,Bakery,FreshDairy,11,6.35
+2025-11-04,P007,Pain au Chocolat,Bakery,Gourmet Beans,50,1.52
+2025-11-04,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-11-04,P009,Sourdough Loaf,Bakery,FreshDairy,9,3.36
+2025-11-04,P010,Muffin,Bakery,FreshDairy,14,7.26
+2025-11-04,P011,Bottled Water 500ml,Beverage,Gourmet Beans,55,2.3
+2025-11-04,P012,Orange Juice 1L,Beverage,QuickSupplies,32,2.82
+2025-11-04,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-04,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-11-04,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-11-04,P016,Cookie Pack,Food,Local Bakery Co,17,9.06
+2025-11-04,P017,Cold Brew 330ml,Beverage,QuickSupplies,43,5.34
+2025-11-04,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-11-04,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-11-04,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-11-05,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-11-05,P002,Espresso Beans 1kg,Beverage,BeverageHub,28,2.81
+2025-11-05,P003,Ground Coffee 500g,Beverage,BeverageHub,30,7.25
+2025-11-05,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-05,P005,Oat Milk 1L,Dairy,Local Bakery Co,10,9.61
+2025-11-05,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-11-05,P007,Pain au Chocolat,Bakery,Gourmet Beans,37,1.52
+2025-11-05,P008,Bagel,Bakery,FreshDairy,23,6.88
+2025-11-05,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-11-05,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-11-05,P011,Bottled Water 500ml,Beverage,Gourmet Beans,61,2.3
+2025-11-05,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-11-05,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-05,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-11-05,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-11-05,P016,Cookie Pack,Food,Local Bakery Co,33,9.06
+2025-11-05,P017,Cold Brew 330ml,Beverage,QuickSupplies,40,5.34
+2025-11-05,P018,Iced Latte 330ml,Beverage,Gourmet Beans,18,4.68
+2025-11-05,P019,Cup 8oz,Supply,Gourmet Beans,6,0.45
+2025-11-05,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-11-06,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-11-06,P002,Espresso Beans 1kg,Beverage,BeverageHub,31,2.81
+2025-11-06,P003,Ground Coffee 500g,Beverage,BeverageHub,29,7.25
+2025-11-06,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-11-06,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-11-06,P006,Croissant,Bakery,FreshDairy,11,6.35
+2025-11-06,P007,Pain au Chocolat,Bakery,Gourmet Beans,36,1.52
+2025-11-06,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-11-06,P009,Sourdough Loaf,Bakery,FreshDairy,2,3.36
+2025-11-06,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-11-06,P011,Bottled Water 500ml,Beverage,Gourmet Beans,61,2.3
+2025-11-06,P012,Orange Juice 1L,Beverage,QuickSupplies,25,2.82
+2025-11-06,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-06,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-11-06,P015,Chocolate Bar,Food,QuickSupplies,15,3.24
+2025-11-06,P016,Cookie Pack,Food,Local Bakery Co,35,9.06
+2025-11-06,P017,Cold Brew 330ml,Beverage,QuickSupplies,38,5.34
+2025-11-06,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-11-06,P019,Cup 8oz,Supply,Gourmet Beans,6,0.45
+2025-11-06,P020,Paper Cup 12oz,Supply,BeverageHub,17,1.05
+2025-11-07,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-11-07,P002,Espresso Beans 1kg,Beverage,BeverageHub,24,2.81
+2025-11-07,P003,Ground Coffee 500g,Beverage,BeverageHub,43,7.25
+2025-11-07,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-07,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-11-07,P006,Croissant,Bakery,FreshDairy,7,6.35
+2025-11-07,P007,Pain au Chocolat,Bakery,Gourmet Beans,28,1.52
+2025-11-07,P008,Bagel,Bakery,FreshDairy,19,6.88
+2025-11-07,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-11-07,P010,Muffin,Bakery,FreshDairy,7,7.26
+2025-11-07,P011,Bottled Water 500ml,Beverage,Gourmet Beans,68,2.3
+2025-11-07,P012,Orange Juice 1L,Beverage,QuickSupplies,25,2.82
+2025-11-07,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-07,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-11-07,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-11-07,P016,Cookie Pack,Food,Local Bakery Co,32,9.06
+2025-11-07,P017,Cold Brew 330ml,Beverage,QuickSupplies,28,5.34
+2025-11-07,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-11-07,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-11-07,P020,Paper Cup 12oz,Supply,BeverageHub,15,1.05
+2025-11-08,P001,Espresso Beans 250g,Beverage,Gourmet Beans,16,7.58
+2025-11-08,P002,Espresso Beans 1kg,Beverage,BeverageHub,21,2.81
+2025-11-08,P003,Ground Coffee 500g,Beverage,BeverageHub,57,7.25
+2025-11-08,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-08,P005,Oat Milk 1L,Dairy,Local Bakery Co,12,9.61
+2025-11-08,P006,Croissant,Bakery,FreshDairy,14,6.35
+2025-11-08,P007,Pain au Chocolat,Bakery,Gourmet Beans,39,1.52
+2025-11-08,P008,Bagel,Bakery,FreshDairy,28,6.88
+2025-11-08,P009,Sourdough Loaf,Bakery,FreshDairy,10,3.36
+2025-11-08,P010,Muffin,Bakery,FreshDairy,11,7.26
+2025-11-08,P011,Bottled Water 500ml,Beverage,Gourmet Beans,79,2.3
+2025-11-08,P012,Orange Juice 1L,Beverage,QuickSupplies,23,2.82
+2025-11-08,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-08,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-11-08,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-11-08,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-11-08,P017,Cold Brew 330ml,Beverage,QuickSupplies,53,5.34
+2025-11-08,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-11-08,P019,Cup 8oz,Supply,Gourmet Beans,16,0.45
+2025-11-08,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-11-09,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-11-09,P002,Espresso Beans 1kg,Beverage,BeverageHub,22,2.81
+2025-11-09,P003,Ground Coffee 500g,Beverage,BeverageHub,46,7.25
+2025-11-09,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-11-09,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-11-09,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-11-09,P007,Pain au Chocolat,Bakery,Gourmet Beans,56,1.52
+2025-11-09,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-11-09,P009,Sourdough Loaf,Bakery,FreshDairy,9,3.36
+2025-11-09,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-11-09,P011,Bottled Water 500ml,Beverage,Gourmet Beans,67,2.3
+2025-11-09,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-11-09,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-09,P014,Sandwich Veggie,Food,Gourmet Beans,10,3.7
+2025-11-09,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-11-09,P016,Cookie Pack,Food,Local Bakery Co,30,9.06
+2025-11-09,P017,Cold Brew 330ml,Beverage,QuickSupplies,43,5.34
+2025-11-09,P018,Iced Latte 330ml,Beverage,Gourmet Beans,22,4.68
+2025-11-09,P019,Cup 8oz,Supply,Gourmet Beans,14,0.45
+2025-11-09,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-11-10,P001,Espresso Beans 250g,Beverage,Gourmet Beans,10,7.58
+2025-11-10,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-11-10,P003,Ground Coffee 500g,Beverage,BeverageHub,46,7.25
+2025-11-10,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-11-10,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-11-10,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-11-10,P007,Pain au Chocolat,Bakery,Gourmet Beans,42,1.52
+2025-11-10,P008,Bagel,Bakery,FreshDairy,23,6.88
+2025-11-10,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-11-10,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-11-10,P011,Bottled Water 500ml,Beverage,Gourmet Beans,47,2.3
+2025-11-10,P012,Orange Juice 1L,Beverage,QuickSupplies,28,2.82
+2025-11-10,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-10,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-11-10,P015,Chocolate Bar,Food,QuickSupplies,16,3.24
+2025-11-10,P016,Cookie Pack,Food,Local Bakery Co,32,9.06
+2025-11-10,P017,Cold Brew 330ml,Beverage,QuickSupplies,29,5.34
+2025-11-10,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-11-10,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-11-10,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-11-11,P001,Espresso Beans 250g,Beverage,Gourmet Beans,7,7.58
+2025-11-11,P002,Espresso Beans 1kg,Beverage,BeverageHub,13,2.81
+2025-11-11,P003,Ground Coffee 500g,Beverage,BeverageHub,33,7.25
+2025-11-11,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-11-11,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-11-11,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-11-11,P007,Pain au Chocolat,Bakery,Gourmet Beans,34,1.52
+2025-11-11,P008,Bagel,Bakery,FreshDairy,25,6.88
+2025-11-11,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-11-11,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-11-11,P011,Bottled Water 500ml,Beverage,Gourmet Beans,51,2.3
+2025-11-11,P012,Orange Juice 1L,Beverage,QuickSupplies,28,2.82
+2025-11-11,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-11,P014,Sandwich Veggie,Food,Gourmet Beans,6,3.7
+2025-11-11,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-11-11,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-11-11,P017,Cold Brew 330ml,Beverage,QuickSupplies,34,5.34
+2025-11-11,P018,Iced Latte 330ml,Beverage,Gourmet Beans,25,4.68
+2025-11-11,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-11-11,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-11-12,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-11-12,P002,Espresso Beans 1kg,Beverage,BeverageHub,16,2.81
+2025-11-12,P003,Ground Coffee 500g,Beverage,BeverageHub,32,7.25
+2025-11-12,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-11-12,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-11-12,P006,Croissant,Bakery,FreshDairy,0,6.35
+2025-11-12,P007,Pain au Chocolat,Bakery,Gourmet Beans,27,1.52
+2025-11-12,P008,Bagel,Bakery,FreshDairy,19,6.88
+2025-11-12,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-11-12,P010,Muffin,Bakery,FreshDairy,10,7.26
+2025-11-12,P011,Bottled Water 500ml,Beverage,Gourmet Beans,51,2.3
+2025-11-12,P012,Orange Juice 1L,Beverage,QuickSupplies,37,2.82
+2025-11-12,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-12,P014,Sandwich Veggie,Food,Gourmet Beans,9,3.7
+2025-11-12,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-11-12,P016,Cookie Pack,Food,Local Bakery Co,27,9.06
+2025-11-12,P017,Cold Brew 330ml,Beverage,QuickSupplies,31,5.34
+2025-11-12,P018,Iced Latte 330ml,Beverage,Gourmet Beans,14,4.68
+2025-11-12,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-11-12,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-11-13,P001,Espresso Beans 250g,Beverage,Gourmet Beans,6,7.58
+2025-11-13,P002,Espresso Beans 1kg,Beverage,BeverageHub,15,2.81
+2025-11-13,P003,Ground Coffee 500g,Beverage,BeverageHub,39,7.25
+2025-11-13,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-13,P005,Oat Milk 1L,Dairy,Local Bakery Co,8,9.61
+2025-11-13,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-11-13,P007,Pain au Chocolat,Bakery,Gourmet Beans,24,1.52
+2025-11-13,P008,Bagel,Bakery,FreshDairy,24,6.88
+2025-11-13,P009,Sourdough Loaf,Bakery,FreshDairy,3,3.36
+2025-11-13,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-11-13,P011,Bottled Water 500ml,Beverage,Gourmet Beans,36,2.3
+2025-11-13,P012,Orange Juice 1L,Beverage,QuickSupplies,21,2.82
+2025-11-13,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-13,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-11-13,P015,Chocolate Bar,Food,QuickSupplies,14,3.24
+2025-11-13,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-11-13,P017,Cold Brew 330ml,Beverage,QuickSupplies,22,5.34
+2025-11-13,P018,Iced Latte 330ml,Beverage,Gourmet Beans,13,4.68
+2025-11-13,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-11-13,P020,Paper Cup 12oz,Supply,BeverageHub,14,1.05
+2025-11-14,P001,Espresso Beans 250g,Beverage,Gourmet Beans,13,7.58
+2025-11-14,P002,Espresso Beans 1kg,Beverage,BeverageHub,14,2.81
+2025-11-14,P003,Ground Coffee 500g,Beverage,BeverageHub,40,7.25
+2025-11-14,P004,Latte Milk 1L,Dairy,QuickSupplies,3,7.78
+2025-11-14,P005,Oat Milk 1L,Dairy,Local Bakery Co,9,9.61
+2025-11-14,P006,Croissant,Bakery,FreshDairy,8,6.35
+2025-11-14,P007,Pain au Chocolat,Bakery,Gourmet Beans,40,1.52
+2025-11-14,P008,Bagel,Bakery,FreshDairy,21,6.88
+2025-11-14,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-11-14,P010,Muffin,Bakery,FreshDairy,19,7.26
+2025-11-14,P011,Bottled Water 500ml,Beverage,Gourmet Beans,40,2.3
+2025-11-14,P012,Orange Juice 1L,Beverage,QuickSupplies,19,2.82
+2025-11-14,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-14,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-11-14,P015,Chocolate Bar,Food,QuickSupplies,10,3.24
+2025-11-14,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-11-14,P017,Cold Brew 330ml,Beverage,QuickSupplies,32,5.34
+2025-11-14,P018,Iced Latte 330ml,Beverage,Gourmet Beans,16,4.68
+2025-11-14,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-11-14,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-11-15,P001,Espresso Beans 250g,Beverage,Gourmet Beans,4,7.58
+2025-11-15,P002,Espresso Beans 1kg,Beverage,BeverageHub,24,2.81
+2025-11-15,P003,Ground Coffee 500g,Beverage,BeverageHub,42,7.25
+2025-11-15,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-11-15,P005,Oat Milk 1L,Dairy,Local Bakery Co,6,9.61
+2025-11-15,P006,Croissant,Bakery,FreshDairy,6,6.35
+2025-11-15,P007,Pain au Chocolat,Bakery,Gourmet Beans,45,1.52
+2025-11-15,P008,Bagel,Bakery,FreshDairy,30,6.88
+2025-11-15,P009,Sourdough Loaf,Bakery,FreshDairy,8,3.36
+2025-11-15,P010,Muffin,Bakery,FreshDairy,8,7.26
+2025-11-15,P011,Bottled Water 500ml,Beverage,Gourmet Beans,63,2.3
+2025-11-15,P012,Orange Juice 1L,Beverage,QuickSupplies,31,2.82
+2025-11-15,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-15,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-11-15,P015,Chocolate Bar,Food,QuickSupplies,11,3.24
+2025-11-15,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-11-15,P017,Cold Brew 330ml,Beverage,QuickSupplies,37,5.34
+2025-11-15,P018,Iced Latte 330ml,Beverage,Gourmet Beans,20,4.68
+2025-11-15,P019,Cup 8oz,Supply,Gourmet Beans,5,0.45
+2025-11-15,P020,Paper Cup 12oz,Supply,BeverageHub,8,1.05
+2025-11-16,P001,Espresso Beans 250g,Beverage,Gourmet Beans,19,7.58
+2025-11-16,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-11-16,P003,Ground Coffee 500g,Beverage,BeverageHub,31,7.25
+2025-11-16,P004,Latte Milk 1L,Dairy,QuickSupplies,6,7.78
+2025-11-16,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-11-16,P006,Croissant,Bakery,FreshDairy,13,6.35
+2025-11-16,P007,Pain au Chocolat,Bakery,Gourmet Beans,41,1.52
+2025-11-16,P008,Bagel,Bakery,FreshDairy,38,6.88
+2025-11-16,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-11-16,P010,Muffin,Bakery,FreshDairy,15,7.26
+2025-11-16,P011,Bottled Water 500ml,Beverage,Gourmet Beans,65,2.3
+2025-11-16,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-11-16,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-16,P014,Sandwich Veggie,Food,Gourmet Beans,5,3.7
+2025-11-16,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-11-16,P016,Cookie Pack,Food,Local Bakery Co,21,9.06
+2025-11-16,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-11-16,P018,Iced Latte 330ml,Beverage,Gourmet Beans,22,4.68
+2025-11-16,P019,Cup 8oz,Supply,Gourmet Beans,8,0.45
+2025-11-16,P020,Paper Cup 12oz,Supply,BeverageHub,12,1.05
+2025-11-17,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-11-17,P002,Espresso Beans 1kg,Beverage,BeverageHub,12,2.81
+2025-11-17,P003,Ground Coffee 500g,Beverage,BeverageHub,34,7.25
+2025-11-17,P004,Latte Milk 1L,Dairy,QuickSupplies,2,7.78
+2025-11-17,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-11-17,P006,Croissant,Bakery,FreshDairy,4,6.35
+2025-11-17,P007,Pain au Chocolat,Bakery,Gourmet Beans,33,1.52
+2025-11-17,P008,Bagel,Bakery,FreshDairy,16,6.88
+2025-11-17,P009,Sourdough Loaf,Bakery,FreshDairy,5,3.36
+2025-11-17,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-11-17,P011,Bottled Water 500ml,Beverage,Gourmet Beans,44,2.3
+2025-11-17,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-11-17,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-17,P014,Sandwich Veggie,Food,Gourmet Beans,11,3.7
+2025-11-17,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-11-17,P016,Cookie Pack,Food,Local Bakery Co,23,9.06
+2025-11-17,P017,Cold Brew 330ml,Beverage,QuickSupplies,35,5.34
+2025-11-17,P018,Iced Latte 330ml,Beverage,Gourmet Beans,21,4.68
+2025-11-17,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-11-17,P020,Paper Cup 12oz,Supply,BeverageHub,10,1.05
+2025-11-18,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-11-18,P002,Espresso Beans 1kg,Beverage,BeverageHub,11,2.81
+2025-11-18,P003,Ground Coffee 500g,Beverage,BeverageHub,49,7.25
+2025-11-18,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-11-18,P005,Oat Milk 1L,Dairy,Local Bakery Co,6,9.61
+2025-11-18,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-11-18,P007,Pain au Chocolat,Bakery,Gourmet Beans,22,1.52
+2025-11-18,P008,Bagel,Bakery,FreshDairy,19,6.88
+2025-11-18,P009,Sourdough Loaf,Bakery,FreshDairy,7,3.36
+2025-11-18,P010,Muffin,Bakery,FreshDairy,8,7.26
+2025-11-18,P011,Bottled Water 500ml,Beverage,Gourmet Beans,56,2.3
+2025-11-18,P012,Orange Juice 1L,Beverage,QuickSupplies,30,2.82
+2025-11-18,P013,Sandwich Ham-Cheese,Food,FreshDairy,3,4.49
+2025-11-18,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-11-18,P015,Chocolate Bar,Food,QuickSupplies,16,3.24
+2025-11-18,P016,Cookie Pack,Food,Local Bakery Co,25,9.06
+2025-11-18,P017,Cold Brew 330ml,Beverage,QuickSupplies,37,5.34
+2025-11-18,P018,Iced Latte 330ml,Beverage,Gourmet Beans,11,4.68
+2025-11-18,P019,Cup 8oz,Supply,Gourmet Beans,5,0.45
+2025-11-18,P020,Paper Cup 12oz,Supply,BeverageHub,6,1.05
+2025-11-19,P001,Espresso Beans 250g,Beverage,Gourmet Beans,11,7.58
+2025-11-19,P002,Espresso Beans 1kg,Beverage,BeverageHub,14,2.81
+2025-11-19,P003,Ground Coffee 500g,Beverage,BeverageHub,30,7.25
+2025-11-19,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-19,P005,Oat Milk 1L,Dairy,Local Bakery Co,7,9.61
+2025-11-19,P006,Croissant,Bakery,FreshDairy,11,6.35
+2025-11-19,P007,Pain au Chocolat,Bakery,Gourmet Beans,40,1.52
+2025-11-19,P008,Bagel,Bakery,FreshDairy,23,6.88
+2025-11-19,P009,Sourdough Loaf,Bakery,FreshDairy,4,3.36
+2025-11-19,P010,Muffin,Bakery,FreshDairy,13,7.26
+2025-11-19,P011,Bottled Water 500ml,Beverage,Gourmet Beans,46,2.3
+2025-11-19,P012,Orange Juice 1L,Beverage,QuickSupplies,21,2.82
+2025-11-19,P013,Sandwich Ham-Cheese,Food,FreshDairy,2,4.49
+2025-11-19,P014,Sandwich Veggie,Food,Gourmet Beans,4,3.7
+2025-11-19,P015,Chocolate Bar,Food,QuickSupplies,17,3.24
+2025-11-19,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-11-19,P017,Cold Brew 330ml,Beverage,QuickSupplies,36,5.34
+2025-11-19,P018,Iced Latte 330ml,Beverage,Gourmet Beans,17,4.68
+2025-11-19,P019,Cup 8oz,Supply,Gourmet Beans,15,0.45
+2025-11-19,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-11-20,P001,Espresso Beans 250g,Beverage,Gourmet Beans,9,7.58
+2025-11-20,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-11-20,P003,Ground Coffee 500g,Beverage,BeverageHub,41,7.25
+2025-11-20,P004,Latte Milk 1L,Dairy,QuickSupplies,5,7.78
+2025-11-20,P005,Oat Milk 1L,Dairy,Local Bakery Co,5,9.61
+2025-11-20,P006,Croissant,Bakery,FreshDairy,5,6.35
+2025-11-20,P007,Pain au Chocolat,Bakery,Gourmet Beans,42,1.52
+2025-11-20,P008,Bagel,Bakery,FreshDairy,32,6.88
+2025-11-20,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-11-20,P010,Muffin,Bakery,FreshDairy,12,7.26
+2025-11-20,P011,Bottled Water 500ml,Beverage,Gourmet Beans,39,2.3
+2025-11-20,P012,Orange Juice 1L,Beverage,QuickSupplies,34,2.82
+2025-11-20,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-20,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-11-20,P015,Chocolate Bar,Food,QuickSupplies,16,3.24
+2025-11-20,P016,Cookie Pack,Food,Local Bakery Co,28,9.06
+2025-11-20,P017,Cold Brew 330ml,Beverage,QuickSupplies,33,5.34
+2025-11-20,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-11-20,P019,Cup 8oz,Supply,Gourmet Beans,10,0.45
+2025-11-20,P020,Paper Cup 12oz,Supply,BeverageHub,11,1.05
+2025-11-21,P001,Espresso Beans 250g,Beverage,Gourmet Beans,8,7.58
+2025-11-21,P002,Espresso Beans 1kg,Beverage,BeverageHub,17,2.81
+2025-11-21,P003,Ground Coffee 500g,Beverage,BeverageHub,49,7.25
+2025-11-21,P004,Latte Milk 1L,Dairy,QuickSupplies,4,7.78
+2025-11-21,P005,Oat Milk 1L,Dairy,Local Bakery Co,3,9.61
+2025-11-21,P006,Croissant,Bakery,FreshDairy,3,6.35
+2025-11-21,P007,Pain au Chocolat,Bakery,Gourmet Beans,24,1.52
+2025-11-21,P008,Bagel,Bakery,FreshDairy,27,6.88
+2025-11-21,P009,Sourdough Loaf,Bakery,FreshDairy,2,3.36
+2025-11-21,P010,Muffin,Bakery,FreshDairy,5,7.26
+2025-11-21,P011,Bottled Water 500ml,Beverage,Gourmet Beans,50,2.3
+2025-11-21,P012,Orange Juice 1L,Beverage,QuickSupplies,26,2.82
+2025-11-21,P013,Sandwich Ham-Cheese,Food,FreshDairy,4,4.49
+2025-11-21,P014,Sandwich Veggie,Food,Gourmet Beans,8,3.7
+2025-11-21,P015,Chocolate Bar,Food,QuickSupplies,13,3.24
+2025-11-21,P016,Cookie Pack,Food,Local Bakery Co,33,9.06
+2025-11-21,P017,Cold Brew 330ml,Beverage,QuickSupplies,34,5.34
+2025-11-21,P018,Iced Latte 330ml,Beverage,Gourmet Beans,19,4.68
+2025-11-21,P019,Cup 8oz,Supply,Gourmet Beans,9,0.45
+2025-11-21,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05
+2025-11-22,P001,Espresso Beans 250g,Beverage,Gourmet Beans,12,7.58
+2025-11-22,P002,Espresso Beans 1kg,Beverage,BeverageHub,19,2.81
+2025-11-22,P003,Ground Coffee 500g,Beverage,BeverageHub,44,7.25
+2025-11-22,P004,Latte Milk 1L,Dairy,QuickSupplies,1,7.78
+2025-11-22,P005,Oat Milk 1L,Dairy,Local Bakery Co,6,9.61
+2025-11-22,P006,Croissant,Bakery,FreshDairy,9,6.35
+2025-11-22,P007,Pain au Chocolat,Bakery,Gourmet Beans,29,1.52
+2025-11-22,P008,Bagel,Bakery,FreshDairy,33,6.88
+2025-11-22,P009,Sourdough Loaf,Bakery,FreshDairy,6,3.36
+2025-11-22,P010,Muffin,Bakery,FreshDairy,17,7.26
+2025-11-22,P011,Bottled Water 500ml,Beverage,Gourmet Beans,67,2.3
+2025-11-22,P012,Orange Juice 1L,Beverage,QuickSupplies,41,2.82
+2025-11-22,P013,Sandwich Ham-Cheese,Food,FreshDairy,1,4.49
+2025-11-22,P014,Sandwich Veggie,Food,Gourmet Beans,7,3.7
+2025-11-22,P015,Chocolate Bar,Food,QuickSupplies,18,3.24
+2025-11-22,P016,Cookie Pack,Food,Local Bakery Co,26,9.06
+2025-11-22,P017,Cold Brew 330ml,Beverage,QuickSupplies,44,5.34
+2025-11-22,P018,Iced Latte 330ml,Beverage,Gourmet Beans,11,4.68
+2025-11-22,P019,Cup 8oz,Supply,Gourmet Beans,7,0.45
+2025-11-22,P020,Paper Cup 12oz,Supply,BeverageHub,9,1.05

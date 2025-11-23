@@ -14,12 +14,12 @@ st.set_page_config(page_title="Construction Fleet Parts Intelligence", layout="w
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("synthetic_construction_parts_dataset.csv")
+    return pd.read_csv("data/synthetic_cafe_products_.csv")
 
 df = load_data()
 
 st.sidebar.header("Filters")
-machine_filter = st.sidebar.multiselect("Machine Type", df["machine_type"].unique())
+machine_filter = st.sidebar.multiselect("Category", df["machine_type"].unique())
 category_filter = st.sidebar.multiselect("Part Category", df["part_category"].unique())
 supplier_filter = st.sidebar.multiselect("Supplier", df["supplier"].unique())
 
